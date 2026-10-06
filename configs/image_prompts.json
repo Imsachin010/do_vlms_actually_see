@@ -1,0 +1,632 @@
+[
+  {
+    "image_id": "dog_3legs_plain",
+    "concept": "dog",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic dog with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "dog_3legs_natural",
+    "concept": "dog",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic dog with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "dog_5legs_plain",
+    "concept": "dog",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic dog with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "dog_5legs_natural",
+    "concept": "dog",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic dog with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "dog_6legs_plain",
+    "concept": "dog",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic dog with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "dog_6legs_natural",
+    "concept": "dog",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic dog with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cat_3legs_plain",
+    "concept": "cat",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic cat with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cat_3legs_natural",
+    "concept": "cat",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic cat with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cat_5legs_plain",
+    "concept": "cat",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic cat with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cat_5legs_natural",
+    "concept": "cat",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic cat with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cat_6legs_plain",
+    "concept": "cat",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic cat with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cat_6legs_natural",
+    "concept": "cat",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic cat with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "lion_3legs_plain",
+    "concept": "lion",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic lion with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "lion_3legs_natural",
+    "concept": "lion",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic lion with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "lion_5legs_plain",
+    "concept": "lion",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic lion with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "lion_5legs_natural",
+    "concept": "lion",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic lion with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "lion_6legs_plain",
+    "concept": "lion",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic lion with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "lion_6legs_natural",
+    "concept": "lion",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic lion with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "elephant_3legs_plain",
+    "concept": "elephant",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic elephant with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "elephant_3legs_natural",
+    "concept": "elephant",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic elephant with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "elephant_5legs_plain",
+    "concept": "elephant",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic elephant with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "elephant_5legs_natural",
+    "concept": "elephant",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic elephant with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "elephant_6legs_plain",
+    "concept": "elephant",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic elephant with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "elephant_6legs_natural",
+    "concept": "elephant",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic elephant with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "horse_3legs_plain",
+    "concept": "horse",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic horse with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "horse_3legs_natural",
+    "concept": "horse",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic horse with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "horse_5legs_plain",
+    "concept": "horse",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic horse with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "horse_5legs_natural",
+    "concept": "horse",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic horse with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "horse_6legs_plain",
+    "concept": "horse",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic horse with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "horse_6legs_natural",
+    "concept": "horse",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic horse with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cheetah_3legs_plain",
+    "concept": "cheetah",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic cheetah with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cheetah_3legs_natural",
+    "concept": "cheetah",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic cheetah with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cheetah_5legs_plain",
+    "concept": "cheetah",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic cheetah with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cheetah_5legs_natural",
+    "concept": "cheetah",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic cheetah with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cheetah_6legs_plain",
+    "concept": "cheetah",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic cheetah with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "cheetah_6legs_natural",
+    "concept": "cheetah",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic cheetah with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "leopard_3legs_plain",
+    "concept": "leopard",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic leopard with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "leopard_3legs_natural",
+    "concept": "leopard",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic leopard with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "leopard_5legs_plain",
+    "concept": "leopard",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic leopard with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "leopard_5legs_natural",
+    "concept": "leopard",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic leopard with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "leopard_6legs_plain",
+    "concept": "leopard",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic leopard with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "leopard_6legs_natural",
+    "concept": "leopard",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic leopard with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fox_3legs_plain",
+    "concept": "fox",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic fox with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fox_3legs_natural",
+    "concept": "fox",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic fox with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fox_5legs_plain",
+    "concept": "fox",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic fox with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fox_5legs_natural",
+    "concept": "fox",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic fox with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fox_6legs_plain",
+    "concept": "fox",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic fox with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fox_6legs_natural",
+    "concept": "fox",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic fox with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "deer_3legs_plain",
+    "concept": "deer",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic deer with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "deer_3legs_natural",
+    "concept": "deer",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic deer with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "deer_5legs_plain",
+    "concept": "deer",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic deer with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "deer_5legs_natural",
+    "concept": "deer",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic deer with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "deer_6legs_plain",
+    "concept": "deer",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic deer with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "deer_6legs_natural",
+    "concept": "deer",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic deer with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "hyena_3legs_plain",
+    "concept": "hyena",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic hyena with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "hyena_3legs_natural",
+    "concept": "hyena",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic hyena with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "hyena_5legs_plain",
+    "concept": "hyena",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic hyena with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "hyena_5legs_natural",
+    "concept": "hyena",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic hyena with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "hyena_6legs_plain",
+    "concept": "hyena",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic hyena with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "hyena_6legs_natural",
+    "concept": "hyena",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic hyena with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "serval_3legs_plain",
+    "concept": "serval",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic serval with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "serval_3legs_natural",
+    "concept": "serval",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic serval with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "serval_5legs_plain",
+    "concept": "serval",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic serval with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "serval_5legs_natural",
+    "concept": "serval",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic serval with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "serval_6legs_plain",
+    "concept": "serval",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic serval with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "serval_6legs_natural",
+    "concept": "serval",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic serval with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "binturong_3legs_plain",
+    "concept": "binturong",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic binturong with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "binturong_3legs_natural",
+    "concept": "binturong",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic binturong with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "binturong_5legs_plain",
+    "concept": "binturong",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic binturong with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "binturong_5legs_natural",
+    "concept": "binturong",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic binturong with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "binturong_6legs_plain",
+    "concept": "binturong",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic binturong with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "binturong_6legs_natural",
+    "concept": "binturong",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic binturong with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "numbat_3legs_plain",
+    "concept": "numbat",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic numbat with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "numbat_3legs_natural",
+    "concept": "numbat",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic numbat with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "numbat_5legs_plain",
+    "concept": "numbat",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic numbat with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "numbat_5legs_natural",
+    "concept": "numbat",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic numbat with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "numbat_6legs_plain",
+    "concept": "numbat",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic numbat with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "numbat_6legs_natural",
+    "concept": "numbat",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic numbat with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fossa_3legs_plain",
+    "concept": "fossa",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic fossa with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fossa_3legs_natural",
+    "concept": "fossa",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic fossa with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fossa_5legs_plain",
+    "concept": "fossa",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic fossa with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fossa_5legs_natural",
+    "concept": "fossa",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic fossa with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fossa_6legs_plain",
+    "concept": "fossa",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic fossa with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "fossa_6legs_natural",
+    "concept": "fossa",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic fossa with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "okapi_3legs_plain",
+    "concept": "okapi",
+    "legs": 3,
+    "background": "plain",
+    "prompt": "A photorealistic okapi with exactly 3 visible legs,\nstanding on a plain white background.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "okapi_3legs_natural",
+    "concept": "okapi",
+    "legs": 3,
+    "background": "natural",
+    "prompt": "A photorealistic okapi with exactly 3 visible legs\nin a natural habitat.\nFull body side view, all 3 legs clearly visible and countable."
+  },
+  {
+    "image_id": "okapi_5legs_plain",
+    "concept": "okapi",
+    "legs": 5,
+    "background": "plain",
+    "prompt": "A photorealistic okapi with exactly 5 visible legs,\nstanding on a plain white background.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "okapi_5legs_natural",
+    "concept": "okapi",
+    "legs": 5,
+    "background": "natural",
+    "prompt": "A photorealistic okapi with exactly 5 visible legs\nin a natural habitat.\nFull body side view, all 5 legs clearly visible and countable."
+  },
+  {
+    "image_id": "okapi_6legs_plain",
+    "concept": "okapi",
+    "legs": 6,
+    "background": "plain",
+    "prompt": "A photorealistic okapi with exactly 6 visible legs,\nstanding on a plain white background.\nFull body side view, all 6 legs clearly visible and countable."
+  },
+  {
+    "image_id": "okapi_6legs_natural",
+    "concept": "okapi",
+    "legs": 6,
+    "background": "natural",
+    "prompt": "A photorealistic okapi with exactly 6 visible legs\nin a natural habitat.\nFull body side view, all 6 legs clearly visible and countable."
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "image_id": "okapi_3legs_plain",
+  "concept": "okapi",
+  "true_legs": 3,
+  "background": "plain",
+  "objects": [
+    "okapi"
+  ],
+  "attributes": {
+    "okapi": {
+      "color": "brown-striped",
+      "size": "large",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "okapi has 3 legs",
+    "okapi stands on plain white background"
+  ]
+}

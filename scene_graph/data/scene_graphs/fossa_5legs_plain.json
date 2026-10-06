@@ -1,0 +1,20 @@
+{
+  "image_id": "fossa_5legs_plain",
+  "concept": "fossa",
+  "true_legs": 5,
+  "background": "plain",
+  "objects": [
+    "fossa"
+  ],
+  "attributes": {
+    "fossa": {
+      "color": "brown",
+      "size": "medium",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "fossa has 5 legs",
+    "fossa stands on plain white background"
+  ]
+}

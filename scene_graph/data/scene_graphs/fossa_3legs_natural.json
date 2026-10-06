@@ -1,0 +1,20 @@
+{
+  "image_id": "fossa_3legs_natural",
+  "concept": "fossa",
+  "true_legs": 3,
+  "background": "natural",
+  "objects": [
+    "fossa"
+  ],
+  "attributes": {
+    "fossa": {
+      "color": "brown",
+      "size": "medium",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "fossa has 3 legs",
+    "fossa stands in natural habitat"
+  ]
+}

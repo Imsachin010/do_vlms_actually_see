@@ -1,0 +1,20 @@
+{
+  "image_id": "lion_3legs_natural",
+  "concept": "lion",
+  "background": "natural",
+  "objects": [
+    "lion"
+  ],
+  "attributes": {
+    "lion": {
+      "color": "golden",
+      "size": "large"
+    }
+  },
+  "relations": [
+    "lion has a front-left leg",
+    "lion has a front-right leg",
+    "lion has a hind-left leg",
+    "lion stands in natural habitat"
+  ]
+}

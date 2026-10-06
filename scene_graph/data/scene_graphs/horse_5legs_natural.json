@@ -1,0 +1,20 @@
+{
+  "image_id": "horse_5legs_natural",
+  "concept": "horse",
+  "true_legs": 5,
+  "background": "natural",
+  "objects": [
+    "horse"
+  ],
+  "attributes": {
+    "horse": {
+      "color": "brown",
+      "size": "large",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "horse has 5 legs",
+    "horse stands in natural habitat"
+  ]
+}

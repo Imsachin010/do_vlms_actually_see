@@ -1,0 +1,4 @@
+model,total_samples,raw_accuracy,sg_accuracy,accuracy_gain,raw_bias_rate,sg_bias_rate,bias_reduction,perception_error_rate,reasoning_error_rate,both_wrong_rate,sg_perfect_count
+Gemma-4-31B,59,0.11864406779661017,1.0,0.8813559322033898,0.0,0.0,0.0,0.8813559322033898,0.0,0.0,59
+Qwen3-VL-235B-A22B,60,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,60
+Llama-4-Scout,46,0.391304347826087,1.0,0.6086956521739131,0.2391304347826087,0.0,0.2391304347826087,0.6086956521739131,0.0,0.0,46

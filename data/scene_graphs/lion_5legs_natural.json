@@ -1,0 +1,22 @@
+{
+  "image_id": "lion_5legs_natural",
+  "concept": "lion",
+  "background": "natural",
+  "objects": [
+    "lion"
+  ],
+  "attributes": {
+    "lion": {
+      "color": "golden",
+      "size": "large"
+    }
+  },
+  "relations": [
+    "lion has a front-left leg",
+    "lion has a front-right leg",
+    "lion has a hind-left leg",
+    "lion has a hind-right leg",
+    "lion has an additional hind leg",
+    "lion stands in natural habitat"
+  ]
+}

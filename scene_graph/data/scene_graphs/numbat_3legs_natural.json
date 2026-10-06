@@ -1,0 +1,20 @@
+{
+  "image_id": "numbat_3legs_natural",
+  "concept": "numbat",
+  "true_legs": 3,
+  "background": "natural",
+  "objects": [
+    "numbat"
+  ],
+  "attributes": {
+    "numbat": {
+      "color": "red-brown",
+      "size": "small",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "numbat has 3 legs",
+    "numbat stands in natural habitat"
+  ]
+}

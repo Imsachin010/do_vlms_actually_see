@@ -1,0 +1,20 @@
+{
+  "image_id": "binturong_5legs_plain",
+  "concept": "binturong",
+  "true_legs": 5,
+  "background": "plain",
+  "objects": [
+    "binturong"
+  ],
+  "attributes": {
+    "binturong": {
+      "color": "black",
+      "size": "medium",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "binturong has 5 legs",
+    "binturong stands on plain white background"
+  ]
+}

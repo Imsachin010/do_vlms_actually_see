@@ -1,0 +1,20 @@
+{
+  "image_id": "cat_5legs_natural",
+  "concept": "cat",
+  "true_legs": 5,
+  "background": "natural",
+  "objects": [
+    "cat"
+  ],
+  "attributes": {
+    "cat": {
+      "color": "orange",
+      "size": "small",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "cat has 5 legs",
+    "cat stands in natural habitat"
+  ]
+}

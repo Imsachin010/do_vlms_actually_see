@@ -1,0 +1,22 @@
+{
+  "image_id": "fossa_5legs_natural",
+  "concept": "fossa",
+  "background": "natural",
+  "objects": [
+    "fossa"
+  ],
+  "attributes": {
+    "fossa": {
+      "color": "brown",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "fossa has a front-left leg",
+    "fossa has a front-right leg",
+    "fossa has a hind-left leg",
+    "fossa has a hind-right leg",
+    "fossa has an additional hind leg",
+    "fossa stands in natural habitat"
+  ]
+}

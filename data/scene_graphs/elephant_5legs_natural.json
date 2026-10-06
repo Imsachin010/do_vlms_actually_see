@@ -1,0 +1,22 @@
+{
+  "image_id": "elephant_5legs_natural",
+  "concept": "elephant",
+  "background": "natural",
+  "objects": [
+    "elephant"
+  ],
+  "attributes": {
+    "elephant": {
+      "color": "gray",
+      "size": "very large"
+    }
+  },
+  "relations": [
+    "elephant has a front-left leg",
+    "elephant has a front-right leg",
+    "elephant has a hind-left leg",
+    "elephant has a hind-right leg",
+    "elephant has an additional hind leg",
+    "elephant stands in natural habitat"
+  ]
+}

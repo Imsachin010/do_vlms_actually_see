@@ -1,0 +1,20 @@
+{
+  "image_id": "cheetah_3legs_natural",
+  "concept": "cheetah",
+  "true_legs": 3,
+  "background": "natural",
+  "objects": [
+    "cheetah"
+  ],
+  "attributes": {
+    "cheetah": {
+      "color": "yellow",
+      "size": "medium",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "cheetah has 3 legs",
+    "cheetah stands in natural habitat"
+  ]
+}

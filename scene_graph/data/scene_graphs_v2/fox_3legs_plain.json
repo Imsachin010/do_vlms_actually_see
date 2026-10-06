@@ -1,0 +1,20 @@
+{
+  "image_id": "fox_3legs_plain",
+  "concept": "fox",
+  "background": "plain",
+  "objects": [
+    "fox"
+  ],
+  "attributes": {
+    "fox": {
+      "color": "red",
+      "size": "small"
+    }
+  },
+  "relations": [
+    "fox has a front-left leg",
+    "fox has a front-right leg",
+    "fox has a hind-left leg",
+    "fox stands on plain white background"
+  ]
+}

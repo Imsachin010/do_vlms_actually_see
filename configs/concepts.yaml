@@ -1,0 +1,21 @@
+concepts:
+  tier1:
+    - Dog
+    - Cat
+    - Lion
+    - Elephant
+    - Horse
+
+  tier2:
+    - Cheetah
+    - Leopard
+    - Fox
+    - Deer
+    - Hyena
+
+  tier3:
+    - Serval
+    - Binturong
+    - Numbat
+    - Fossa
+    - Okapi

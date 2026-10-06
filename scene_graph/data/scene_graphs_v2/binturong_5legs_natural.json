@@ -1,0 +1,22 @@
+{
+  "image_id": "binturong_5legs_natural",
+  "concept": "binturong",
+  "background": "natural",
+  "objects": [
+    "binturong"
+  ],
+  "attributes": {
+    "binturong": {
+      "color": "black",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "binturong has a front-left leg",
+    "binturong has a front-right leg",
+    "binturong has a hind-left leg",
+    "binturong has a hind-right leg",
+    "binturong has an additional hind leg",
+    "binturong stands in natural habitat"
+  ]
+}

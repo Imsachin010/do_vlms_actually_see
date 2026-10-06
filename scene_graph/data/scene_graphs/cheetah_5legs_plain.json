@@ -1,0 +1,20 @@
+{
+  "image_id": "cheetah_5legs_plain",
+  "concept": "cheetah",
+  "true_legs": 5,
+  "background": "plain",
+  "objects": [
+    "cheetah"
+  ],
+  "attributes": {
+    "cheetah": {
+      "color": "yellow",
+      "size": "medium",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "cheetah has 5 legs",
+    "cheetah stands on plain white background"
+  ]
+}

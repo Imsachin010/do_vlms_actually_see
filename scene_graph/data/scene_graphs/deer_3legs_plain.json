@@ -1,0 +1,20 @@
+{
+  "image_id": "deer_3legs_plain",
+  "concept": "deer",
+  "true_legs": 3,
+  "background": "plain",
+  "objects": [
+    "deer"
+  ],
+  "attributes": {
+    "deer": {
+      "color": "brown",
+      "size": "medium",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "deer has 3 legs",
+    "deer stands on plain white background"
+  ]
+}

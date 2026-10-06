@@ -1,0 +1,22 @@
+{
+  "image_id": "horse_5legs_natural",
+  "concept": "horse",
+  "background": "natural",
+  "objects": [
+    "horse"
+  ],
+  "attributes": {
+    "horse": {
+      "color": "brown",
+      "size": "large"
+    }
+  },
+  "relations": [
+    "horse has a front-left leg",
+    "horse has a front-right leg",
+    "horse has a hind-left leg",
+    "horse has a hind-right leg",
+    "horse has an additional hind leg",
+    "horse stands in natural habitat"
+  ]
+}

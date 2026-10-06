@@ -1,0 +1,20 @@
+{
+  "image_id": "leopard_3legs_plain",
+  "concept": "leopard",
+  "true_legs": 3,
+  "background": "plain",
+  "objects": [
+    "leopard"
+  ],
+  "attributes": {
+    "leopard": {
+      "color": "spotted",
+      "size": "medium",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "leopard has 3 legs",
+    "leopard stands on plain white background"
+  ]
+}

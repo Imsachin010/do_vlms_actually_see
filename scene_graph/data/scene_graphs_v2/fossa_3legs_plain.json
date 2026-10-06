@@ -1,0 +1,20 @@
+{
+  "image_id": "fossa_3legs_plain",
+  "concept": "fossa",
+  "background": "plain",
+  "objects": [
+    "fossa"
+  ],
+  "attributes": {
+    "fossa": {
+      "color": "brown",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "fossa has a front-left leg",
+    "fossa has a front-right leg",
+    "fossa has a hind-left leg",
+    "fossa stands on plain white background"
+  ]
+}

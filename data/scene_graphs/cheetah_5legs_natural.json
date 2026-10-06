@@ -1,0 +1,22 @@
+{
+  "image_id": "cheetah_5legs_natural",
+  "concept": "cheetah",
+  "background": "natural",
+  "objects": [
+    "cheetah"
+  ],
+  "attributes": {
+    "cheetah": {
+      "color": "yellow",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "cheetah has a front-left leg",
+    "cheetah has a front-right leg",
+    "cheetah has a hind-left leg",
+    "cheetah has a hind-right leg",
+    "cheetah has an additional hind leg",
+    "cheetah stands in natural habitat"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image_id": "elephant_5legs_plain",
+  "concept": "elephant",
+  "true_legs": 5,
+  "background": "plain",
+  "objects": [
+    "elephant"
+  ],
+  "attributes": {
+    "elephant": {
+      "color": "gray",
+      "size": "very large",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "elephant has 5 legs",
+    "elephant stands on plain white background"
+  ]
+}

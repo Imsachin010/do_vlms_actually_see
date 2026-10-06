@@ -1,0 +1,482 @@
+[
+  {
+    "image_id": "dog_3legs_plain",
+    "concept": "dog",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "dog_3legs_natural",
+    "concept": "dog",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "dog_5legs_plain",
+    "concept": "dog",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "dog_5legs_natural",
+    "concept": "dog",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "cat_3legs_plain",
+    "concept": "cat",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "cat_3legs_natural",
+    "concept": "cat",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "cat_5legs_plain",
+    "concept": "cat",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "cat_5legs_natural",
+    "concept": "cat",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "lion_3legs_plain",
+    "concept": "lion",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "lion_3legs_natural",
+    "concept": "lion",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "lion_5legs_plain",
+    "concept": "lion",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "lion_5legs_natural",
+    "concept": "lion",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "elephant_3legs_plain",
+    "concept": "elephant",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "elephant_3legs_natural",
+    "concept": "elephant",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "elephant_5legs_plain",
+    "concept": "elephant",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "elephant_5legs_natural",
+    "concept": "elephant",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "horse_3legs_plain",
+    "concept": "horse",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "horse_3legs_natural",
+    "concept": "horse",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "horse_5legs_plain",
+    "concept": "horse",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "horse_5legs_natural",
+    "concept": "horse",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "cheetah_3legs_plain",
+    "concept": "cheetah",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "cheetah_3legs_natural",
+    "concept": "cheetah",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "cheetah_5legs_plain",
+    "concept": "cheetah",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "cheetah_5legs_natural",
+    "concept": "cheetah",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "leopard_3legs_plain",
+    "concept": "leopard",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "leopard_3legs_natural",
+    "concept": "leopard",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "leopard_5legs_plain",
+    "concept": "leopard",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "leopard_5legs_natural",
+    "concept": "leopard",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "fox_3legs_plain",
+    "concept": "fox",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "fox_3legs_natural",
+    "concept": "fox",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "fox_5legs_plain",
+    "concept": "fox",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "fox_5legs_natural",
+    "concept": "fox",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "deer_3legs_plain",
+    "concept": "deer",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "deer_3legs_natural",
+    "concept": "deer",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "deer_5legs_plain",
+    "concept": "deer",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "deer_5legs_natural",
+    "concept": "deer",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "hyena_3legs_plain",
+    "concept": "hyena",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "hyena_3legs_natural",
+    "concept": "hyena",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "hyena_5legs_plain",
+    "concept": "hyena",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "hyena_5legs_natural",
+    "concept": "hyena",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "serval_3legs_plain",
+    "concept": "serval",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "serval_3legs_natural",
+    "concept": "serval",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "serval_5legs_plain",
+    "concept": "serval",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "serval_5legs_natural",
+    "concept": "serval",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "binturong_3legs_plain",
+    "concept": "binturong",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "binturong_3legs_natural",
+    "concept": "binturong",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "binturong_5legs_plain",
+    "concept": "binturong",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "binturong_5legs_natural",
+    "concept": "binturong",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "numbat_3legs_plain",
+    "concept": "numbat",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "numbat_3legs_natural",
+    "concept": "numbat",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "numbat_5legs_plain",
+    "concept": "numbat",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "numbat_5legs_natural",
+    "concept": "numbat",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "fossa_3legs_plain",
+    "concept": "fossa",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "fossa_3legs_natural",
+    "concept": "fossa",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "fossa_5legs_plain",
+    "concept": "fossa",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "fossa_5legs_natural",
+    "concept": "fossa",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "okapi_3legs_plain",
+    "concept": "okapi",
+    "true_legs": 3,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "okapi_3legs_natural",
+    "concept": "okapi",
+    "true_legs": 3,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "3"
+  },
+  {
+    "image_id": "okapi_5legs_plain",
+    "concept": "okapi",
+    "true_legs": 5,
+    "background": "plain",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  },
+  {
+    "image_id": "okapi_5legs_natural",
+    "concept": "okapi",
+    "true_legs": 5,
+    "background": "natural",
+    "question": "How many legs does this animal have?",
+    "ground_truth": "5"
+  }
+]

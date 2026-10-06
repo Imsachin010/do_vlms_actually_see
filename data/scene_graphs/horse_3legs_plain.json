@@ -1,0 +1,20 @@
+{
+  "image_id": "horse_3legs_plain",
+  "concept": "horse",
+  "background": "plain",
+  "objects": [
+    "horse"
+  ],
+  "attributes": {
+    "horse": {
+      "color": "brown",
+      "size": "large"
+    }
+  },
+  "relations": [
+    "horse has a front-left leg",
+    "horse has a front-right leg",
+    "horse has a hind-left leg",
+    "horse stands on plain white background"
+  ]
+}

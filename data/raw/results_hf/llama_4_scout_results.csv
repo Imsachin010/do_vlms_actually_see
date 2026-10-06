@@ -1,0 +1,89 @@
+image,concept,true_legs,background,predicted,raw_output,status,is_biased,model,hf_id,provider,error
+binturong_3legs_natural.png,binturong,3,natural,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+binturong_3legs_plain.png,binturong,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+binturong_5legs_natural.png,binturong,5,natural,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '500 Internal Server Error' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Request ID: req_01kqf5fv1ref3bq3njvdpne2x8)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+
+{'message': 'Internal Server Error', 'type': 'internal_server_error'}"
+binturong_5legs_plain.png,binturong,5,plain,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+cat_3legs_natural.png,cat,3,natural,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+cat_3legs_plain.png,cat,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+cat_5legs_natural.png,cat,5,natural,3.0,3,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+cat_5legs_plain.png,cat,5,plain,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+cheetah_3legs_natural.png,cheetah,3,natural,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+cheetah_3legs_plain.png,cheetah,3,plain,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '500 Internal Server Error' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Request ID: req_01kqf5h71pf67shaaz4dnkntrv)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+
+{'message': 'Internal Server Error', 'type': 'internal_server_error'}"
+cheetah_5legs_natural.jpg,cheetah,5,natural,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+cheetah_5legs_plain.png,cheetah,5,plain,8.0,8.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+deer_3legs_natural.png,deer,3,natural,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+deer_3legs_plain.png,deer,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+deer_5legs_natural.jpg,deer,5,natural,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '500 Internal Server Error' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Request ID: req_01kqf5jc4zezzrbt3jtns0pk5r)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+
+{'message': 'Internal Server Error', 'type': 'internal_server_error'}"
+deer_5legs_plain.png,deer,5,plain,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+dog_3legs_natural.png,dog,3,natural,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+dog_3legs_plain.png,dog,3,plain,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+dog_5legs_natural.png,dog,5,natural,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '503 Service Temporarily Unavailable' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Amz CF ID: LKTI0QLhjwSah717QlmIy47v8kzijCtgFHfaUtNettQotYnJW-H3sg==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+dog_5legs_plain.png,dog,5,plain,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+elephant_3legs_natural.png,elephant,3,natural,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '500 Internal Server Error' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Request ID: req_01kqf5m12qfahb1pzsbewftf9y)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+
+{'message': 'Internal Server Error', 'type': 'internal_server_error'}"
+elephant_3legs_plain.png,elephant,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+elephant_5legs_natural.png,elephant,5,natural,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+elephant_5legs_plain.png,elephant,5,plain,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+fossa_3legs_natural.png,fossa,3,natural,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+fossa_3legs_plain.png,fossa,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+fossa_5legs_natural.png,fossa,5,natural,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+fossa_5legs_plain.png,fossa,5,plain,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+fox_3legs_natural.png,fox,3,natural,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '503 Service Temporarily Unavailable' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Amz CF ID: qCNFPgZU816T4v0X3pMXKR_Aqt-7gqrWSkWGU-WlbSrFYiN10guyHg==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+fox_3legs_plain.png,fox,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+fox_5legs_natural.jpg,fox,5,natural,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+fox_5legs_plain.png,fox,5,plain,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '503 Service Temporarily Unavailable' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Amz CF ID: 0GGXbCHe8CmK2DAvqPY5siU2n0807qyK6kAlv_9kEx1XE4xz1qtyRg==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+horse_3legs_natural.png,horse,3,natural,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+horse_3legs_plain.png,horse,3,plain,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '503 Service Temporarily Unavailable' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Amz CF ID: 2cw0hyHLKzjwEurK8lHOTDxYq6l4UR8Vz5eZKsiwxzaaYzEtvqtSQQ==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+horse_5legs_natural.jpg,horse,5,natural,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+horse_5legs_plain.png,horse,5,plain,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '500 Internal Server Error' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Request ID: req_01kqf5pjg4ft2a7rpz436b4t12)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+
+{'message': 'Internal Server Error', 'type': 'internal_server_error'}"
+hyena_3legs_natural.png,hyena,3,natural,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '503 Service Temporarily Unavailable' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Amz CF ID: tKWaqn1Fi62tscni6iX4pwWBwTo0ZKtgXOGNoQxCdtbU8ADVHNXy7A==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+hyena_3legs_plain.png,hyena,3,plain,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+hyena_5legs_natural.jpg,hyena,5,natural,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+hyena_5legs_plain.png,hyena,5,plain,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+leopard_3legs_natural.png,leopard,3,natural,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+leopard_3legs_plain.png,leopard,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+leopard_5legs_natural.jpg,leopard,5,natural,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+leopard_5legs_plain.png,leopard,5,plain,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+lion_3legs_natural.png,lion,3,natural,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '503 Service Temporarily Unavailable' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Amz CF ID: IePb-AK56VMPilQgHCcOnc21-M7pIgTQZ1cc6TZCHORtDFsvRqYA_w==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+lion_3legs_plain.png,lion,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+lion_5legs_natural.jpg,lion,5,natural,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+lion_5legs_plain.png,lion,5,plain,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+numbat_3legs_natural.png,numbat,3,natural,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '500 Internal Server Error' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Request ID: req_01kqf5rwr2eh5rs7r7sshr2re5)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+
+{'message': 'Internal Server Error', 'type': 'internal_server_error'}"
+numbat_3legs_plain.png,numbat,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+numbat_5legs_natural.png,numbat,5,natural,3.0,3,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+numbat_5legs_plain.png,numbat,5,plain,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+okapi_3legs_natural.png,okapi,3,natural,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+okapi_3legs_plain.png,okapi,3,plain,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '500 Internal Server Error' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Request ID: req_01kqf5t02kerh82m90v3wq6mt1)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+
+{'message': 'Internal Server Error', 'type': 'internal_server_error'}"
+okapi_5legs_natural.jpg,okapi,5,natural,4.0,4.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+okapi_5legs_plain.png,okapi,5,plain,,,api_error,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,"Server error '503 Service Temporarily Unavailable' for url 'https://router.huggingface.co/groq/openai/v1/chat/completions' (Amz CF ID: pe5sXrV2z7UQeHyGlRRny2R0X7vGpldSHbt1iEgANWEg2559k5td9g==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+serval_3legs_natural.png,serval,3,natural,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+serval_3legs_plain.png,serval,3,plain,3.0,3.,ok,0,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+serval_5legs_natural.jpg,serval,5,natural,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,
+serval_5legs_plain.png,serval,5,plain,3.0,3.,ok,1,Llama-4-Scout,meta-llama/Llama-4-Scout-17B-16E-Instruct,groq,

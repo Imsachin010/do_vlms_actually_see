@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, code, or benchmark dataset in your research, please cite our paper."
+title: "Do Vision-Language Models Actually See?"
+authors:
+  - family-names: "Mishra"
+    given-names: "Sachin"
+    email: "sachin.mishra@iiitb.ac.in"
+    affiliation: "Department of Artificial Intelligence and Data Science, International Institute of Information Technology Bangalore"
+  - family-names: "D’Souza"
+    given-names: "Meenakshi"
+    email: "meenakshi@iiitb.ac.in"
+    affiliation: "Department of Computer Science and Engineering, International Institute of Information Technology Bangalore"
+journal: "Transactions on Machine Learning Research"
+month: 9
+year: 2026
+url: "https://openreview.net/forum?id=o9KC3v0pvb"
+keywords:
+  - "vision-language models"
+  - "inductive bias"
+  - "counterfactual evaluation"
+  - "scene graphs"
+  - "reproducibility"

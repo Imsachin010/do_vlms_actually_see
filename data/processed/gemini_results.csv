@@ -1,0 +1,3 @@
+model,concept,image,true_legs,predicted,is_biased,error,background
+Gemini-Flash,binturong,binturong_3legs_natural.png,3,,0,,natural
+Gemini-Flash,binturong,binturong_3legs_plain.png,3,,0,,plain

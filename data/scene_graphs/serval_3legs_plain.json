@@ -1,0 +1,20 @@
+{
+  "image_id": "serval_3legs_plain",
+  "concept": "serval",
+  "background": "plain",
+  "objects": [
+    "serval"
+  ],
+  "attributes": {
+    "serval": {
+      "color": "golden",
+      "size": "small"
+    }
+  },
+  "relations": [
+    "serval has a front-left leg",
+    "serval has a front-right leg",
+    "serval has a hind-left leg",
+    "serval stands on plain white background"
+  ]
+}

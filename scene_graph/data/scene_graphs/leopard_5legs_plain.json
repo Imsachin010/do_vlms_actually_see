@@ -1,0 +1,20 @@
+{
+  "image_id": "leopard_5legs_plain",
+  "concept": "leopard",
+  "true_legs": 5,
+  "background": "plain",
+  "objects": [
+    "leopard"
+  ],
+  "attributes": {
+    "leopard": {
+      "color": "spotted",
+      "size": "medium",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "leopard has 5 legs",
+    "leopard stands on plain white background"
+  ]
+}

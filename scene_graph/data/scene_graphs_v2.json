@@ -1,0 +1,1262 @@
+[
+  {
+    "image_id": "dog_3legs_plain",
+    "concept": "dog",
+    "background": "plain",
+    "objects": [
+      "dog"
+    ],
+    "attributes": {
+      "dog": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "dog has a front-left leg",
+      "dog has a front-right leg",
+      "dog has a hind-left leg",
+      "dog stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "dog_3legs_natural",
+    "concept": "dog",
+    "background": "natural",
+    "objects": [
+      "dog"
+    ],
+    "attributes": {
+      "dog": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "dog has a front-left leg",
+      "dog has a front-right leg",
+      "dog has a hind-left leg",
+      "dog stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "dog_5legs_plain",
+    "concept": "dog",
+    "background": "plain",
+    "objects": [
+      "dog"
+    ],
+    "attributes": {
+      "dog": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "dog has a front-left leg",
+      "dog has a front-right leg",
+      "dog has a hind-left leg",
+      "dog has a hind-right leg",
+      "dog has an additional hind leg",
+      "dog stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "dog_5legs_natural",
+    "concept": "dog",
+    "background": "natural",
+    "objects": [
+      "dog"
+    ],
+    "attributes": {
+      "dog": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "dog has a front-left leg",
+      "dog has a front-right leg",
+      "dog has a hind-left leg",
+      "dog has a hind-right leg",
+      "dog has an additional hind leg",
+      "dog stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "cat_3legs_plain",
+    "concept": "cat",
+    "background": "plain",
+    "objects": [
+      "cat"
+    ],
+    "attributes": {
+      "cat": {
+        "color": "orange",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "cat has a front-left leg",
+      "cat has a front-right leg",
+      "cat has a hind-left leg",
+      "cat stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "cat_3legs_natural",
+    "concept": "cat",
+    "background": "natural",
+    "objects": [
+      "cat"
+    ],
+    "attributes": {
+      "cat": {
+        "color": "orange",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "cat has a front-left leg",
+      "cat has a front-right leg",
+      "cat has a hind-left leg",
+      "cat stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "cat_5legs_plain",
+    "concept": "cat",
+    "background": "plain",
+    "objects": [
+      "cat"
+    ],
+    "attributes": {
+      "cat": {
+        "color": "orange",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "cat has a front-left leg",
+      "cat has a front-right leg",
+      "cat has a hind-left leg",
+      "cat has a hind-right leg",
+      "cat has an additional hind leg",
+      "cat stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "cat_5legs_natural",
+    "concept": "cat",
+    "background": "natural",
+    "objects": [
+      "cat"
+    ],
+    "attributes": {
+      "cat": {
+        "color": "orange",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "cat has a front-left leg",
+      "cat has a front-right leg",
+      "cat has a hind-left leg",
+      "cat has a hind-right leg",
+      "cat has an additional hind leg",
+      "cat stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "lion_3legs_plain",
+    "concept": "lion",
+    "background": "plain",
+    "objects": [
+      "lion"
+    ],
+    "attributes": {
+      "lion": {
+        "color": "golden",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "lion has a front-left leg",
+      "lion has a front-right leg",
+      "lion has a hind-left leg",
+      "lion stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "lion_3legs_natural",
+    "concept": "lion",
+    "background": "natural",
+    "objects": [
+      "lion"
+    ],
+    "attributes": {
+      "lion": {
+        "color": "golden",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "lion has a front-left leg",
+      "lion has a front-right leg",
+      "lion has a hind-left leg",
+      "lion stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "lion_5legs_plain",
+    "concept": "lion",
+    "background": "plain",
+    "objects": [
+      "lion"
+    ],
+    "attributes": {
+      "lion": {
+        "color": "golden",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "lion has a front-left leg",
+      "lion has a front-right leg",
+      "lion has a hind-left leg",
+      "lion has a hind-right leg",
+      "lion has an additional hind leg",
+      "lion stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "lion_5legs_natural",
+    "concept": "lion",
+    "background": "natural",
+    "objects": [
+      "lion"
+    ],
+    "attributes": {
+      "lion": {
+        "color": "golden",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "lion has a front-left leg",
+      "lion has a front-right leg",
+      "lion has a hind-left leg",
+      "lion has a hind-right leg",
+      "lion has an additional hind leg",
+      "lion stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "elephant_3legs_plain",
+    "concept": "elephant",
+    "background": "plain",
+    "objects": [
+      "elephant"
+    ],
+    "attributes": {
+      "elephant": {
+        "color": "gray",
+        "size": "very large"
+      }
+    },
+    "relations": [
+      "elephant has a front-left leg",
+      "elephant has a front-right leg",
+      "elephant has a hind-left leg",
+      "elephant stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "elephant_3legs_natural",
+    "concept": "elephant",
+    "background": "natural",
+    "objects": [
+      "elephant"
+    ],
+    "attributes": {
+      "elephant": {
+        "color": "gray",
+        "size": "very large"
+      }
+    },
+    "relations": [
+      "elephant has a front-left leg",
+      "elephant has a front-right leg",
+      "elephant has a hind-left leg",
+      "elephant stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "elephant_5legs_plain",
+    "concept": "elephant",
+    "background": "plain",
+    "objects": [
+      "elephant"
+    ],
+    "attributes": {
+      "elephant": {
+        "color": "gray",
+        "size": "very large"
+      }
+    },
+    "relations": [
+      "elephant has a front-left leg",
+      "elephant has a front-right leg",
+      "elephant has a hind-left leg",
+      "elephant has a hind-right leg",
+      "elephant has an additional hind leg",
+      "elephant stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "elephant_5legs_natural",
+    "concept": "elephant",
+    "background": "natural",
+    "objects": [
+      "elephant"
+    ],
+    "attributes": {
+      "elephant": {
+        "color": "gray",
+        "size": "very large"
+      }
+    },
+    "relations": [
+      "elephant has a front-left leg",
+      "elephant has a front-right leg",
+      "elephant has a hind-left leg",
+      "elephant has a hind-right leg",
+      "elephant has an additional hind leg",
+      "elephant stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "horse_3legs_plain",
+    "concept": "horse",
+    "background": "plain",
+    "objects": [
+      "horse"
+    ],
+    "attributes": {
+      "horse": {
+        "color": "brown",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "horse has a front-left leg",
+      "horse has a front-right leg",
+      "horse has a hind-left leg",
+      "horse stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "horse_3legs_natural",
+    "concept": "horse",
+    "background": "natural",
+    "objects": [
+      "horse"
+    ],
+    "attributes": {
+      "horse": {
+        "color": "brown",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "horse has a front-left leg",
+      "horse has a front-right leg",
+      "horse has a hind-left leg",
+      "horse stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "horse_5legs_plain",
+    "concept": "horse",
+    "background": "plain",
+    "objects": [
+      "horse"
+    ],
+    "attributes": {
+      "horse": {
+        "color": "brown",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "horse has a front-left leg",
+      "horse has a front-right leg",
+      "horse has a hind-left leg",
+      "horse has a hind-right leg",
+      "horse has an additional hind leg",
+      "horse stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "horse_5legs_natural",
+    "concept": "horse",
+    "background": "natural",
+    "objects": [
+      "horse"
+    ],
+    "attributes": {
+      "horse": {
+        "color": "brown",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "horse has a front-left leg",
+      "horse has a front-right leg",
+      "horse has a hind-left leg",
+      "horse has a hind-right leg",
+      "horse has an additional hind leg",
+      "horse stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "cheetah_3legs_plain",
+    "concept": "cheetah",
+    "background": "plain",
+    "objects": [
+      "cheetah"
+    ],
+    "attributes": {
+      "cheetah": {
+        "color": "yellow",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "cheetah has a front-left leg",
+      "cheetah has a front-right leg",
+      "cheetah has a hind-left leg",
+      "cheetah stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "cheetah_3legs_natural",
+    "concept": "cheetah",
+    "background": "natural",
+    "objects": [
+      "cheetah"
+    ],
+    "attributes": {
+      "cheetah": {
+        "color": "yellow",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "cheetah has a front-left leg",
+      "cheetah has a front-right leg",
+      "cheetah has a hind-left leg",
+      "cheetah stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "cheetah_5legs_plain",
+    "concept": "cheetah",
+    "background": "plain",
+    "objects": [
+      "cheetah"
+    ],
+    "attributes": {
+      "cheetah": {
+        "color": "yellow",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "cheetah has a front-left leg",
+      "cheetah has a front-right leg",
+      "cheetah has a hind-left leg",
+      "cheetah has a hind-right leg",
+      "cheetah has an additional hind leg",
+      "cheetah stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "cheetah_5legs_natural",
+    "concept": "cheetah",
+    "background": "natural",
+    "objects": [
+      "cheetah"
+    ],
+    "attributes": {
+      "cheetah": {
+        "color": "yellow",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "cheetah has a front-left leg",
+      "cheetah has a front-right leg",
+      "cheetah has a hind-left leg",
+      "cheetah has a hind-right leg",
+      "cheetah has an additional hind leg",
+      "cheetah stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "leopard_3legs_plain",
+    "concept": "leopard",
+    "background": "plain",
+    "objects": [
+      "leopard"
+    ],
+    "attributes": {
+      "leopard": {
+        "color": "spotted",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "leopard has a front-left leg",
+      "leopard has a front-right leg",
+      "leopard has a hind-left leg",
+      "leopard stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "leopard_3legs_natural",
+    "concept": "leopard",
+    "background": "natural",
+    "objects": [
+      "leopard"
+    ],
+    "attributes": {
+      "leopard": {
+        "color": "spotted",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "leopard has a front-left leg",
+      "leopard has a front-right leg",
+      "leopard has a hind-left leg",
+      "leopard stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "leopard_5legs_plain",
+    "concept": "leopard",
+    "background": "plain",
+    "objects": [
+      "leopard"
+    ],
+    "attributes": {
+      "leopard": {
+        "color": "spotted",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "leopard has a front-left leg",
+      "leopard has a front-right leg",
+      "leopard has a hind-left leg",
+      "leopard has a hind-right leg",
+      "leopard has an additional hind leg",
+      "leopard stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "leopard_5legs_natural",
+    "concept": "leopard",
+    "background": "natural",
+    "objects": [
+      "leopard"
+    ],
+    "attributes": {
+      "leopard": {
+        "color": "spotted",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "leopard has a front-left leg",
+      "leopard has a front-right leg",
+      "leopard has a hind-left leg",
+      "leopard has a hind-right leg",
+      "leopard has an additional hind leg",
+      "leopard stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "fox_3legs_plain",
+    "concept": "fox",
+    "background": "plain",
+    "objects": [
+      "fox"
+    ],
+    "attributes": {
+      "fox": {
+        "color": "red",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "fox has a front-left leg",
+      "fox has a front-right leg",
+      "fox has a hind-left leg",
+      "fox stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "fox_3legs_natural",
+    "concept": "fox",
+    "background": "natural",
+    "objects": [
+      "fox"
+    ],
+    "attributes": {
+      "fox": {
+        "color": "red",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "fox has a front-left leg",
+      "fox has a front-right leg",
+      "fox has a hind-left leg",
+      "fox stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "fox_5legs_plain",
+    "concept": "fox",
+    "background": "plain",
+    "objects": [
+      "fox"
+    ],
+    "attributes": {
+      "fox": {
+        "color": "red",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "fox has a front-left leg",
+      "fox has a front-right leg",
+      "fox has a hind-left leg",
+      "fox has a hind-right leg",
+      "fox has an additional hind leg",
+      "fox stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "fox_5legs_natural",
+    "concept": "fox",
+    "background": "natural",
+    "objects": [
+      "fox"
+    ],
+    "attributes": {
+      "fox": {
+        "color": "red",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "fox has a front-left leg",
+      "fox has a front-right leg",
+      "fox has a hind-left leg",
+      "fox has a hind-right leg",
+      "fox has an additional hind leg",
+      "fox stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "deer_3legs_plain",
+    "concept": "deer",
+    "background": "plain",
+    "objects": [
+      "deer"
+    ],
+    "attributes": {
+      "deer": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "deer has a front-left leg",
+      "deer has a front-right leg",
+      "deer has a hind-left leg",
+      "deer stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "deer_3legs_natural",
+    "concept": "deer",
+    "background": "natural",
+    "objects": [
+      "deer"
+    ],
+    "attributes": {
+      "deer": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "deer has a front-left leg",
+      "deer has a front-right leg",
+      "deer has a hind-left leg",
+      "deer stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "deer_5legs_plain",
+    "concept": "deer",
+    "background": "plain",
+    "objects": [
+      "deer"
+    ],
+    "attributes": {
+      "deer": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "deer has a front-left leg",
+      "deer has a front-right leg",
+      "deer has a hind-left leg",
+      "deer has a hind-right leg",
+      "deer has an additional hind leg",
+      "deer stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "deer_5legs_natural",
+    "concept": "deer",
+    "background": "natural",
+    "objects": [
+      "deer"
+    ],
+    "attributes": {
+      "deer": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "deer has a front-left leg",
+      "deer has a front-right leg",
+      "deer has a hind-left leg",
+      "deer has a hind-right leg",
+      "deer has an additional hind leg",
+      "deer stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "hyena_3legs_plain",
+    "concept": "hyena",
+    "background": "plain",
+    "objects": [
+      "hyena"
+    ],
+    "attributes": {
+      "hyena": {
+        "color": "spotted",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "hyena has a front-left leg",
+      "hyena has a front-right leg",
+      "hyena has a hind-left leg",
+      "hyena stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "hyena_3legs_natural",
+    "concept": "hyena",
+    "background": "natural",
+    "objects": [
+      "hyena"
+    ],
+    "attributes": {
+      "hyena": {
+        "color": "spotted",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "hyena has a front-left leg",
+      "hyena has a front-right leg",
+      "hyena has a hind-left leg",
+      "hyena stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "hyena_5legs_plain",
+    "concept": "hyena",
+    "background": "plain",
+    "objects": [
+      "hyena"
+    ],
+    "attributes": {
+      "hyena": {
+        "color": "spotted",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "hyena has a front-left leg",
+      "hyena has a front-right leg",
+      "hyena has a hind-left leg",
+      "hyena has a hind-right leg",
+      "hyena has an additional hind leg",
+      "hyena stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "hyena_5legs_natural",
+    "concept": "hyena",
+    "background": "natural",
+    "objects": [
+      "hyena"
+    ],
+    "attributes": {
+      "hyena": {
+        "color": "spotted",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "hyena has a front-left leg",
+      "hyena has a front-right leg",
+      "hyena has a hind-left leg",
+      "hyena has a hind-right leg",
+      "hyena has an additional hind leg",
+      "hyena stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "serval_3legs_plain",
+    "concept": "serval",
+    "background": "plain",
+    "objects": [
+      "serval"
+    ],
+    "attributes": {
+      "serval": {
+        "color": "golden",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "serval has a front-left leg",
+      "serval has a front-right leg",
+      "serval has a hind-left leg",
+      "serval stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "serval_3legs_natural",
+    "concept": "serval",
+    "background": "natural",
+    "objects": [
+      "serval"
+    ],
+    "attributes": {
+      "serval": {
+        "color": "golden",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "serval has a front-left leg",
+      "serval has a front-right leg",
+      "serval has a hind-left leg",
+      "serval stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "serval_5legs_plain",
+    "concept": "serval",
+    "background": "plain",
+    "objects": [
+      "serval"
+    ],
+    "attributes": {
+      "serval": {
+        "color": "golden",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "serval has a front-left leg",
+      "serval has a front-right leg",
+      "serval has a hind-left leg",
+      "serval has a hind-right leg",
+      "serval has an additional hind leg",
+      "serval stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "serval_5legs_natural",
+    "concept": "serval",
+    "background": "natural",
+    "objects": [
+      "serval"
+    ],
+    "attributes": {
+      "serval": {
+        "color": "golden",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "serval has a front-left leg",
+      "serval has a front-right leg",
+      "serval has a hind-left leg",
+      "serval has a hind-right leg",
+      "serval has an additional hind leg",
+      "serval stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "binturong_3legs_plain",
+    "concept": "binturong",
+    "background": "plain",
+    "objects": [
+      "binturong"
+    ],
+    "attributes": {
+      "binturong": {
+        "color": "black",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "binturong has a front-left leg",
+      "binturong has a front-right leg",
+      "binturong has a hind-left leg",
+      "binturong stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "binturong_3legs_natural",
+    "concept": "binturong",
+    "background": "natural",
+    "objects": [
+      "binturong"
+    ],
+    "attributes": {
+      "binturong": {
+        "color": "black",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "binturong has a front-left leg",
+      "binturong has a front-right leg",
+      "binturong has a hind-left leg",
+      "binturong stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "binturong_5legs_plain",
+    "concept": "binturong",
+    "background": "plain",
+    "objects": [
+      "binturong"
+    ],
+    "attributes": {
+      "binturong": {
+        "color": "black",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "binturong has a front-left leg",
+      "binturong has a front-right leg",
+      "binturong has a hind-left leg",
+      "binturong has a hind-right leg",
+      "binturong has an additional hind leg",
+      "binturong stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "binturong_5legs_natural",
+    "concept": "binturong",
+    "background": "natural",
+    "objects": [
+      "binturong"
+    ],
+    "attributes": {
+      "binturong": {
+        "color": "black",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "binturong has a front-left leg",
+      "binturong has a front-right leg",
+      "binturong has a hind-left leg",
+      "binturong has a hind-right leg",
+      "binturong has an additional hind leg",
+      "binturong stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "numbat_3legs_plain",
+    "concept": "numbat",
+    "background": "plain",
+    "objects": [
+      "numbat"
+    ],
+    "attributes": {
+      "numbat": {
+        "color": "red-brown",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "numbat has a front-left leg",
+      "numbat has a front-right leg",
+      "numbat has a hind-left leg",
+      "numbat stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "numbat_3legs_natural",
+    "concept": "numbat",
+    "background": "natural",
+    "objects": [
+      "numbat"
+    ],
+    "attributes": {
+      "numbat": {
+        "color": "red-brown",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "numbat has a front-left leg",
+      "numbat has a front-right leg",
+      "numbat has a hind-left leg",
+      "numbat stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "numbat_5legs_plain",
+    "concept": "numbat",
+    "background": "plain",
+    "objects": [
+      "numbat"
+    ],
+    "attributes": {
+      "numbat": {
+        "color": "red-brown",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "numbat has a front-left leg",
+      "numbat has a front-right leg",
+      "numbat has a hind-left leg",
+      "numbat has a hind-right leg",
+      "numbat has an additional hind leg",
+      "numbat stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "numbat_5legs_natural",
+    "concept": "numbat",
+    "background": "natural",
+    "objects": [
+      "numbat"
+    ],
+    "attributes": {
+      "numbat": {
+        "color": "red-brown",
+        "size": "small"
+      }
+    },
+    "relations": [
+      "numbat has a front-left leg",
+      "numbat has a front-right leg",
+      "numbat has a hind-left leg",
+      "numbat has a hind-right leg",
+      "numbat has an additional hind leg",
+      "numbat stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "fossa_3legs_plain",
+    "concept": "fossa",
+    "background": "plain",
+    "objects": [
+      "fossa"
+    ],
+    "attributes": {
+      "fossa": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "fossa has a front-left leg",
+      "fossa has a front-right leg",
+      "fossa has a hind-left leg",
+      "fossa stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "fossa_3legs_natural",
+    "concept": "fossa",
+    "background": "natural",
+    "objects": [
+      "fossa"
+    ],
+    "attributes": {
+      "fossa": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "fossa has a front-left leg",
+      "fossa has a front-right leg",
+      "fossa has a hind-left leg",
+      "fossa stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "fossa_5legs_plain",
+    "concept": "fossa",
+    "background": "plain",
+    "objects": [
+      "fossa"
+    ],
+    "attributes": {
+      "fossa": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "fossa has a front-left leg",
+      "fossa has a front-right leg",
+      "fossa has a hind-left leg",
+      "fossa has a hind-right leg",
+      "fossa has an additional hind leg",
+      "fossa stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "fossa_5legs_natural",
+    "concept": "fossa",
+    "background": "natural",
+    "objects": [
+      "fossa"
+    ],
+    "attributes": {
+      "fossa": {
+        "color": "brown",
+        "size": "medium"
+      }
+    },
+    "relations": [
+      "fossa has a front-left leg",
+      "fossa has a front-right leg",
+      "fossa has a hind-left leg",
+      "fossa has a hind-right leg",
+      "fossa has an additional hind leg",
+      "fossa stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "okapi_3legs_plain",
+    "concept": "okapi",
+    "background": "plain",
+    "objects": [
+      "okapi"
+    ],
+    "attributes": {
+      "okapi": {
+        "color": "brown-striped",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "okapi has a front-left leg",
+      "okapi has a front-right leg",
+      "okapi has a hind-left leg",
+      "okapi stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "okapi_3legs_natural",
+    "concept": "okapi",
+    "background": "natural",
+    "objects": [
+      "okapi"
+    ],
+    "attributes": {
+      "okapi": {
+        "color": "brown-striped",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "okapi has a front-left leg",
+      "okapi has a front-right leg",
+      "okapi has a hind-left leg",
+      "okapi stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "okapi_5legs_plain",
+    "concept": "okapi",
+    "background": "plain",
+    "objects": [
+      "okapi"
+    ],
+    "attributes": {
+      "okapi": {
+        "color": "brown-striped",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "okapi has a front-left leg",
+      "okapi has a front-right leg",
+      "okapi has a hind-left leg",
+      "okapi has a hind-right leg",
+      "okapi has an additional hind leg",
+      "okapi stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "okapi_5legs_natural",
+    "concept": "okapi",
+    "background": "natural",
+    "objects": [
+      "okapi"
+    ],
+    "attributes": {
+      "okapi": {
+        "color": "brown-striped",
+        "size": "large"
+      }
+    },
+    "relations": [
+      "okapi has a front-left leg",
+      "okapi has a front-right leg",
+      "okapi has a hind-left leg",
+      "okapi has a hind-right leg",
+      "okapi has an additional hind leg",
+      "okapi stands in natural habitat"
+    ]
+  }
+]

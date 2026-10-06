@@ -1,0 +1,20 @@
+{
+  "image_id": "hyena_3legs_natural",
+  "concept": "hyena",
+  "true_legs": 3,
+  "background": "natural",
+  "objects": [
+    "hyena"
+  ],
+  "attributes": {
+    "hyena": {
+      "color": "spotted",
+      "size": "medium",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "hyena has 3 legs",
+    "hyena stands in natural habitat"
+  ]
+}

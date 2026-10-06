@@ -1,0 +1,20 @@
+{
+  "image_id": "okapi_5legs_natural",
+  "concept": "okapi",
+  "true_legs": 5,
+  "background": "natural",
+  "objects": [
+    "okapi"
+  ],
+  "attributes": {
+    "okapi": {
+      "color": "brown-striped",
+      "size": "large",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "okapi has 5 legs",
+    "okapi stands in natural habitat"
+  ]
+}

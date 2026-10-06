@@ -1,0 +1,22 @@
+{
+  "image_id": "hyena_5legs_plain",
+  "concept": "hyena",
+  "background": "plain",
+  "objects": [
+    "hyena"
+  ],
+  "attributes": {
+    "hyena": {
+      "color": "spotted",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "hyena has a front-left leg",
+    "hyena has a front-right leg",
+    "hyena has a hind-left leg",
+    "hyena has a hind-right leg",
+    "hyena has an additional hind leg",
+    "hyena stands on plain white background"
+  ]
+}

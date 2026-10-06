@@ -1,0 +1,20 @@
+{
+  "image_id": "hyena_5legs_natural",
+  "concept": "hyena",
+  "true_legs": 5,
+  "background": "natural",
+  "objects": [
+    "hyena"
+  ],
+  "attributes": {
+    "hyena": {
+      "color": "spotted",
+      "size": "medium",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "hyena has 5 legs",
+    "hyena stands in natural habitat"
+  ]
+}

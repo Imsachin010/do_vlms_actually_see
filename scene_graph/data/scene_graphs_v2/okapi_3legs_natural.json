@@ -1,0 +1,20 @@
+{
+  "image_id": "okapi_3legs_natural",
+  "concept": "okapi",
+  "background": "natural",
+  "objects": [
+    "okapi"
+  ],
+  "attributes": {
+    "okapi": {
+      "color": "brown-striped",
+      "size": "large"
+    }
+  },
+  "relations": [
+    "okapi has a front-left leg",
+    "okapi has a front-right leg",
+    "okapi has a hind-left leg",
+    "okapi stands in natural habitat"
+  ]
+}

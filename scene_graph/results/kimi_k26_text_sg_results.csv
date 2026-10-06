@@ -1,0 +1,301 @@
+image_id,concept,true_legs,background,predicted,is_biased,error_type,raw_output,status,model,hf_id,provider,error,scene_graph_text
+dog_3legs_plain,dog,3,plain,3,0,none,"According to the Scene Graph, the dog has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: dog
+Attributes (dog): color: brown; size: medium; legs: 3
+Relations:
+  - dog has 3 legs
+  - dog stands on plain white background"
+dog_3legs_natural,dog,3,natural,3,0,none,"According to the Scene Graph, the dog has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: dog
+Attributes (dog): color: brown; size: medium; legs: 3
+Relations:
+  - dog has 3 legs
+  - dog stands in natural habitat"
+dog_5legs_plain,dog,5,plain,5,0,none,"According to the Scene Graph, the dog has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: dog
+Attributes (dog): color: brown; size: medium; legs: 5
+Relations:
+  - dog has 5 legs
+  - dog stands on plain white background"
+dog_5legs_natural,dog,5,natural,2,1,reasoning_error,"According to the Scene Graph, the dog has 5 legs. This information is provided in two places: as an attribute of the dog (legs: 5) and as a relation (dog has 5 legs).",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: dog
+Attributes (dog): color: brown; size: medium; legs: 5
+Relations:
+  - dog has 5 legs
+  - dog stands in natural habitat"
+cat_3legs_plain,cat,3,plain,3,0,none,"According to the Scene Graph, the cat has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: cat
+Attributes (cat): color: orange; size: small; legs: 3
+Relations:
+  - cat has 3 legs
+  - cat stands on plain white background"
+cat_3legs_natural,cat,3,natural,3,0,none,"According to the Scene Graph, the cat has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: cat
+Attributes (cat): color: orange; size: small; legs: 3
+Relations:
+  - cat has 3 legs
+  - cat stands in natural habitat"
+cat_5legs_plain,cat,5,plain,5,0,none,"According to the Scene Graph, the cat has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: cat
+Attributes (cat): color: orange; size: small; legs: 5
+Relations:
+  - cat has 5 legs
+  - cat stands on plain white background"
+cat_5legs_natural,cat,5,natural,2,1,reasoning_error,"According to the Scene Graph, the cat has 5 legs. This information is provided in two places: as an attribute of the cat (legs: 5) and as a relation (cat has 5 legs).",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: cat
+Attributes (cat): color: orange; size: small; legs: 5
+Relations:
+  - cat has 5 legs
+  - cat stands in natural habitat"
+lion_3legs_plain,lion,3,plain,3,0,none,"According to the Scene Graph, the lion has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: lion
+Attributes (lion): color: golden; size: large; legs: 3
+Relations:
+  - lion has 3 legs
+  - lion stands on plain white background"
+lion_3legs_natural,lion,3,natural,3,0,none,"According to the Scene Graph, the lion has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: lion
+Attributes (lion): color: golden; size: large; legs: 3
+Relations:
+  - lion has 3 legs
+  - lion stands in natural habitat"
+lion_5legs_plain,lion,5,plain,5,0,none,"According to the Scene Graph, the lion has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: lion
+Attributes (lion): color: golden; size: large; legs: 5
+Relations:
+  - lion has 5 legs
+  - lion stands on plain white background"
+lion_5legs_natural,lion,5,natural,5,0,none,"According to the Scene Graph, the lion has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: lion
+Attributes (lion): color: golden; size: large; legs: 5
+Relations:
+  - lion has 5 legs
+  - lion stands in natural habitat"
+elephant_3legs_plain,elephant,3,plain,3,0,none,"According to the Scene Graph, the elephant has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: elephant
+Attributes (elephant): color: gray; size: very large; legs: 3
+Relations:
+  - elephant has 3 legs
+  - elephant stands on plain white background"
+elephant_3legs_natural,elephant,3,natural,3,0,none,"According to the Scene Graph, the elephant has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: elephant
+Attributes (elephant): color: gray; size: very large; legs: 3
+Relations:
+  - elephant has 3 legs
+  - elephant stands in natural habitat"
+elephant_5legs_plain,elephant,5,plain,5,0,none,"According to the Scene Graph, the elephant has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: elephant
+Attributes (elephant): color: gray; size: very large; legs: 5
+Relations:
+  - elephant has 5 legs
+  - elephant stands on plain white background"
+elephant_5legs_natural,elephant,5,natural,5,0,none,"According to the Scene Graph, the elephant has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: elephant
+Attributes (elephant): color: gray; size: very large; legs: 5
+Relations:
+  - elephant has 5 legs
+  - elephant stands in natural habitat"
+horse_3legs_plain,horse,3,plain,3,0,none,"According to the Scene Graph, the horse has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: horse
+Attributes (horse): color: brown; size: large; legs: 3
+Relations:
+  - horse has 3 legs
+  - horse stands on plain white background"
+horse_3legs_natural,horse,3,natural,3,0,none,"According to the Scene Graph, the horse has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: horse
+Attributes (horse): color: brown; size: large; legs: 3
+Relations:
+  - horse has 3 legs
+  - horse stands in natural habitat"
+horse_5legs_plain,horse,5,plain,5,0,none,"According to the Scene Graph, the horse has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: horse
+Attributes (horse): color: brown; size: large; legs: 5
+Relations:
+  - horse has 5 legs
+  - horse stands on plain white background"
+horse_5legs_natural,horse,5,natural,5,0,none,"According to the Scene Graph, the horse has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: horse
+Attributes (horse): color: brown; size: large; legs: 5
+Relations:
+  - horse has 5 legs
+  - horse stands in natural habitat"
+cheetah_3legs_plain,cheetah,3,plain,3,0,none,"According to the Scene Graph, the cheetah has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: cheetah
+Attributes (cheetah): color: yellow; size: medium; legs: 3
+Relations:
+  - cheetah has 3 legs
+  - cheetah stands on plain white background"
+cheetah_3legs_natural,cheetah,3,natural,3,0,none,"According to the Scene Graph, the cheetah has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: cheetah
+Attributes (cheetah): color: yellow; size: medium; legs: 3
+Relations:
+  - cheetah has 3 legs
+  - cheetah stands in natural habitat"
+cheetah_5legs_plain,cheetah,5,plain,5,0,none,"According to the Scene Graph, the cheetah has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: cheetah
+Attributes (cheetah): color: yellow; size: medium; legs: 5
+Relations:
+  - cheetah has 5 legs
+  - cheetah stands on plain white background"
+cheetah_5legs_natural,cheetah,5,natural,2,1,reasoning_error,"According to the Scene Graph, the cheetah has 5 legs. This information is provided in two places: as an attribute of the cheetah (""legs: 5"") and as a relation (""cheetah has 5 legs"").",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: cheetah
+Attributes (cheetah): color: yellow; size: medium; legs: 5
+Relations:
+  - cheetah has 5 legs
+  - cheetah stands in natural habitat"
+leopard_3legs_plain,leopard,3,plain,3,0,none,"According to the Scene Graph, the leopard has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: leopard
+Attributes (leopard): color: spotted; size: medium; legs: 3
+Relations:
+  - leopard has 3 legs
+  - leopard stands on plain white background"
+leopard_3legs_natural,leopard,3,natural,3,0,none,"According to the Scene Graph, the leopard has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: leopard
+Attributes (leopard): color: spotted; size: medium; legs: 3
+Relations:
+  - leopard has 3 legs
+  - leopard stands in natural habitat"
+leopard_5legs_plain,leopard,5,plain,5,0,none,"According to the Scene Graph, the leopard has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: leopard
+Attributes (leopard): color: spotted; size: medium; legs: 5
+Relations:
+  - leopard has 5 legs
+  - leopard stands on plain white background"
+leopard_5legs_natural,leopard,5,natural,5,0,none,"According to the Scene Graph, the leopard has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: leopard
+Attributes (leopard): color: spotted; size: medium; legs: 5
+Relations:
+  - leopard has 5 legs
+  - leopard stands in natural habitat"
+fox_3legs_plain,fox,3,plain,3,0,none,"According to the Scene Graph, the fox has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: fox
+Attributes (fox): color: red; size: small; legs: 3
+Relations:
+  - fox has 3 legs
+  - fox stands on plain white background"
+fox_3legs_natural,fox,3,natural,3,0,none,"According to the Scene Graph, the fox has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: fox
+Attributes (fox): color: red; size: small; legs: 3
+Relations:
+  - fox has 3 legs
+  - fox stands in natural habitat"
+fox_5legs_plain,fox,5,plain,5,0,none,"According to the Scene Graph, the fox has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: fox
+Attributes (fox): color: red; size: small; legs: 5
+Relations:
+  - fox has 5 legs
+  - fox stands on plain white background"
+fox_5legs_natural,fox,5,natural,5,0,none,"According to the Scene Graph, the fox has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: fox
+Attributes (fox): color: red; size: small; legs: 5
+Relations:
+  - fox has 5 legs
+  - fox stands in natural habitat"
+deer_3legs_plain,deer,3,plain,3,0,none,"According to the Scene Graph, the deer has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: deer
+Attributes (deer): color: brown; size: medium; legs: 3
+Relations:
+  - deer has 3 legs
+  - deer stands on plain white background"
+deer_3legs_natural,deer,3,natural,3,0,none,"According to the Scene Graph, the deer has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: deer
+Attributes (deer): color: brown; size: medium; legs: 3
+Relations:
+  - deer has 3 legs
+  - deer stands in natural habitat"
+deer_5legs_plain,deer,5,plain,5,0,none,"According to the Scene Graph, the deer has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: deer
+Attributes (deer): color: brown; size: medium; legs: 5
+Relations:
+  - deer has 5 legs
+  - deer stands on plain white background"
+deer_5legs_natural,deer,5,natural,5,0,none,"According to the Scene Graph, the deer has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: deer
+Attributes (deer): color: brown; size: medium; legs: 5
+Relations:
+  - deer has 5 legs
+  - deer stands in natural habitat"
+hyena_3legs_plain,hyena,3,plain,3,0,none,"According to the Scene Graph, the hyena has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: hyena
+Attributes (hyena): color: spotted; size: medium; legs: 3
+Relations:
+  - hyena has 3 legs
+  - hyena stands on plain white background"
+hyena_3legs_natural,hyena,3,natural,3,0,none,"According to the Scene Graph, the hyena has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: hyena
+Attributes (hyena): color: spotted; size: medium; legs: 3
+Relations:
+  - hyena has 3 legs
+  - hyena stands in natural habitat"
+hyena_5legs_plain,hyena,5,plain,2,1,reasoning_error,"According to the Scene Graph, the hyena has 5 legs. This information is provided in two places: as an attribute of the hyena (legs: 5) and as a relation (hyena has 5 legs).",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: hyena
+Attributes (hyena): color: spotted; size: medium; legs: 5
+Relations:
+  - hyena has 5 legs
+  - hyena stands on plain white background"
+hyena_5legs_natural,hyena,5,natural,2,1,reasoning_error,"According to the Scene Graph, the hyena has 5 legs. This information is provided in two places: as an attribute of the hyena (legs: 5) and as a relation (hyena has 5 legs).",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: hyena
+Attributes (hyena): color: spotted; size: medium; legs: 5
+Relations:
+  - hyena has 5 legs
+  - hyena stands in natural habitat"
+serval_3legs_plain,serval,3,plain,3,0,none,"According to the Scene Graph, the serval has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: serval
+Attributes (serval): color: golden; size: small; legs: 3
+Relations:
+  - serval has 3 legs
+  - serval stands on plain white background"
+serval_3legs_natural,serval,3,natural,3,0,none,"According to the Scene Graph, the serval has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: serval
+Attributes (serval): color: golden; size: small; legs: 3
+Relations:
+  - serval has 3 legs
+  - serval stands in natural habitat"
+serval_5legs_plain,serval,5,plain,2,1,reasoning_error,"According to the Scene Graph, the serval has 5 legs. This information is provided in two places: as an attribute of the serval (legs: 5) and as a relation (serval has 5 legs).",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: serval
+Attributes (serval): color: golden; size: small; legs: 5
+Relations:
+  - serval has 5 legs
+  - serval stands on plain white background"
+serval_5legs_natural,serval,5,natural,5,0,none,"According to the Scene Graph, the serval has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: serval
+Attributes (serval): color: golden; size: small; legs: 5
+Relations:
+  - serval has 5 legs
+  - serval stands in natural habitat"
+binturong_3legs_plain,binturong,3,plain,3,0,none,"According to the Scene Graph, the binturong has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: binturong
+Attributes (binturong): color: black; size: medium; legs: 3
+Relations:
+  - binturong has 3 legs
+  - binturong stands on plain white background"
+binturong_3legs_natural,binturong,3,natural,3,0,none,"According to the Scene Graph, the binturong has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: binturong
+Attributes (binturong): color: black; size: medium; legs: 3
+Relations:
+  - binturong has 3 legs
+  - binturong stands in natural habitat"
+binturong_5legs_plain,binturong,5,plain,5,0,none,"According to the Scene Graph, the binturong has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: binturong
+Attributes (binturong): color: black; size: medium; legs: 5
+Relations:
+  - binturong has 5 legs
+  - binturong stands on plain white background"
+binturong_5legs_natural,binturong,5,natural,5,0,none,"According to the Scene Graph, the binturong has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: binturong
+Attributes (binturong): color: black; size: medium; legs: 5
+Relations:
+  - binturong has 5 legs
+  - binturong stands in natural habitat"
+numbat_3legs_plain,numbat,3,plain,3,0,none,"According to the Scene Graph, the numbat has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: numbat
+Attributes (numbat): color: red-brown; size: small; legs: 3
+Relations:
+  - numbat has 3 legs
+  - numbat stands on plain white background"
+numbat_3legs_natural,numbat,3,natural,3,0,none,"According to the Scene Graph, the numbat has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: numbat
+Attributes (numbat): color: red-brown; size: small; legs: 3
+Relations:
+  - numbat has 3 legs
+  - numbat stands in natural habitat"
+numbat_5legs_plain,numbat,5,plain,5,0,none,"According to the Scene Graph, the numbat has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: numbat
+Attributes (numbat): color: red-brown; size: small; legs: 5
+Relations:
+  - numbat has 5 legs
+  - numbat stands on plain white background"
+numbat_5legs_natural,numbat,5,natural,5,0,none,"According to the Scene Graph, the numbat has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: numbat
+Attributes (numbat): color: red-brown; size: small; legs: 5
+Relations:
+  - numbat has 5 legs
+  - numbat stands in natural habitat"
+fossa_3legs_plain,fossa,3,plain,3,0,none,"According to the Scene Graph, the fossa has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: fossa
+Attributes (fossa): color: brown; size: medium; legs: 3
+Relations:
+  - fossa has 3 legs
+  - fossa stands on plain white background"
+fossa_3legs_natural,fossa,3,natural,3,0,none,"According to the Scene Graph, the fossa has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: fossa
+Attributes (fossa): color: brown; size: medium; legs: 3
+Relations:
+  - fossa has 3 legs
+  - fossa stands in natural habitat"
+fossa_5legs_plain,fossa,5,plain,5,0,none,"According to the Scene Graph, the fossa has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: fossa
+Attributes (fossa): color: brown; size: medium; legs: 5
+Relations:
+  - fossa has 5 legs
+  - fossa stands on plain white background"
+fossa_5legs_natural,fossa,5,natural,2,1,reasoning_error,"According to the Scene Graph, the fossa has 5 legs. This information is provided in two places: as an attribute of the fossa (legs: 5) and as a relation (fossa has 5 legs).",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: fossa
+Attributes (fossa): color: brown; size: medium; legs: 5
+Relations:
+  - fossa has 5 legs
+  - fossa stands in natural habitat"
+okapi_3legs_plain,okapi,3,plain,3,0,none,"According to the Scene Graph, the okapi has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: okapi
+Attributes (okapi): color: brown-striped; size: large; legs: 3
+Relations:
+  - okapi has 3 legs
+  - okapi stands on plain white background"
+okapi_3legs_natural,okapi,3,natural,3,0,none,"According to the Scene Graph, the okapi has 3 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: okapi
+Attributes (okapi): color: brown-striped; size: large; legs: 3
+Relations:
+  - okapi has 3 legs
+  - okapi stands in natural habitat"
+okapi_5legs_plain,okapi,5,plain,5,0,none,"According to the Scene Graph, the okapi has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: okapi
+Attributes (okapi): color: brown-striped; size: large; legs: 5
+Relations:
+  - okapi has 5 legs
+  - okapi stands on plain white background"
+okapi_5legs_natural,okapi,5,natural,5,0,none,"According to the Scene Graph, the okapi has 5 legs.",ok,Kimi-K2.6-Text,meta-llama/Meta-Llama-3.1-70B-Instruct,default,,"Objects: okapi
+Attributes (okapi): color: brown-striped; size: large; legs: 5
+Relations:
+  - okapi has 5 legs
+  - okapi stands in natural habitat"

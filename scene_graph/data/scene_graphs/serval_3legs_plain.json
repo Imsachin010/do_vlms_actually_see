@@ -1,0 +1,20 @@
+{
+  "image_id": "serval_3legs_plain",
+  "concept": "serval",
+  "true_legs": 3,
+  "background": "plain",
+  "objects": [
+    "serval"
+  ],
+  "attributes": {
+    "serval": {
+      "color": "golden",
+      "size": "small",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "serval has 3 legs",
+    "serval stands on plain white background"
+  ]
+}

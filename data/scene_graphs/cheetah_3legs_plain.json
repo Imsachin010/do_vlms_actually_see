@@ -1,0 +1,20 @@
+{
+  "image_id": "cheetah_3legs_plain",
+  "concept": "cheetah",
+  "background": "plain",
+  "objects": [
+    "cheetah"
+  ],
+  "attributes": {
+    "cheetah": {
+      "color": "yellow",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "cheetah has a front-left leg",
+    "cheetah has a front-right leg",
+    "cheetah has a hind-left leg",
+    "cheetah stands on plain white background"
+  ]
+}

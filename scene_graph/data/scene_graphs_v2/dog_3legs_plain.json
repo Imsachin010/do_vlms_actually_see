@@ -1,0 +1,20 @@
+{
+  "image_id": "dog_3legs_plain",
+  "concept": "dog",
+  "background": "plain",
+  "objects": [
+    "dog"
+  ],
+  "attributes": {
+    "dog": {
+      "color": "brown",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "dog has a front-left leg",
+    "dog has a front-right leg",
+    "dog has a hind-left leg",
+    "dog stands on plain white background"
+  ]
+}

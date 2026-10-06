@@ -1,0 +1,20 @@
+{
+  "image_id": "cat_3legs_natural",
+  "concept": "cat",
+  "true_legs": 3,
+  "background": "natural",
+  "objects": [
+    "cat"
+  ],
+  "attributes": {
+    "cat": {
+      "color": "orange",
+      "size": "small",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "cat has 3 legs",
+    "cat stands in natural habitat"
+  ]
+}

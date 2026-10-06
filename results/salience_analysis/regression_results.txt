@@ -1,0 +1,58 @@
+MODEL 1: Partial Effects (bias ~ frequency + separability)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              bias_rate   R-squared:                       0.098
+Model:                            OLS   Adj. R-squared:                 -0.053
+Method:                 Least Squares   F-statistic:                    0.6496
+Date:                Fri, 27 Mar 2026   Prob (F-statistic):              0.540
+Time:                        12:15:05   Log-Likelihood:                -70.052
+No. Observations:                  15   AIC:                             146.1
+Df Residuals:                      12   BIC:                             148.2
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                      89.0905     12.748      6.989      0.000      61.315     116.866
+concept_frequency_score   -28.6692     31.058     -0.923      0.374     -96.339      39.001
+clip_separability_score   -15.6729     26.407     -0.594      0.564     -73.209      41.863
+==============================================================================
+Omnibus:                       15.705   Durbin-Watson:                   2.549
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               12.604
+Skew:                          -1.733   Prob(JB):                      0.00183
+Kurtosis:                       5.856   Cond. No.                         4.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+========================================================
+
+MODEL 2: Interaction Term (bias ~ frequency + separability + interaction)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              bias_rate   R-squared:                       0.114
+Model:                            OLS   Adj. R-squared:                 -0.128
+Method:                 Least Squares   F-statistic:                    0.4714
+Date:                Fri, 27 Mar 2026   Prob (F-statistic):              0.708
+Time:                        12:15:05   Log-Likelihood:                -69.916
+No. Observations:                  15   AIC:                             147.8
+Df Residuals:                      11   BIC:                             150.7
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                      95.0856     18.775      5.065      0.000      53.763     136.409
+concept_frequency_score   -93.6643    148.328     -0.631      0.541    -420.133     232.805
+clip_separability_score   -42.2512     65.218     -0.648      0.530    -185.794     101.292
+interaction               219.9276    489.979      0.449      0.662    -858.508    1298.364
+==============================================================================
+Omnibus:                       15.647   Durbin-Watson:                   2.653
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               12.658
+Skew:                          -1.702   Prob(JB):                      0.00178
+Kurtosis:                       5.944   Cond. No.                         72.1
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

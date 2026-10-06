@@ -1,0 +1,20 @@
+{
+  "image_id": "elephant_3legs_plain",
+  "concept": "elephant",
+  "true_legs": 3,
+  "background": "plain",
+  "objects": [
+    "elephant"
+  ],
+  "attributes": {
+    "elephant": {
+      "color": "gray",
+      "size": "very large",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "elephant has 3 legs",
+    "elephant stands on plain white background"
+  ]
+}

@@ -1,0 +1,150 @@
+model,concept,image,prediction,is_correct,is_biased,latency
+llama4-scout,binturong,data/raw/canonical_images\Binturong\Binturong animal full body_0.jpg,binturong,1,0,0.6487901210784912
+llama4-scout,binturong,data/raw/canonical_images\Binturong\Binturong animal full body_1.jpg,binturong,1,0,0.708634614944458
+llama4-scout,binturong,data/raw/canonical_images\Binturong\Binturong animal full body_2.jpg,binturong,1,0,0.6072168350219727
+llama4-scout,binturong,data/raw/canonical_images\Binturong\Binturong animal full body_4.jpg,binturong,1,0,0.807030439376831
+llama4-scout,binturong,data/raw/canonical_images\Binturong\Binturong animal full body_6.jpg,binturong,1,0,0.49632835388183594
+llama4-scout,binturong,data/raw/canonical_images\Binturong\binturong1.jpg,binturong,1,0,0.511920690536499
+llama4-scout,binturong,data/raw/canonical_images\Binturong\binturong2.jpg,binturong,1,0,0.671032190322876
+llama4-scout,binturong,data/raw/canonical_images\Binturong\binturong3.jpg,binturong,1,0,0.6226921081542969
+llama4-scout,binturong,data/raw/canonical_images\Binturong\binturong4.jpg,binturong,1,0,0.7378358840942383
+llama4-scout,cat,data/raw/canonical_images\Cat\cat.jpg,cat,1,0,0.4175245761871338
+llama4-scout,cat,data/raw/canonical_images\Cat\cat1.jpg,cat,1,0,0.4867746829986572
+llama4-scout,cat,data/raw/canonical_images\Cat\cat10.jpg,cat,1,0,0.6798477172851562
+llama4-scout,cat,data/raw/canonical_images\Cat\cat2.jpg,cat,1,0,0.5192093849182129
+llama4-scout,cat,data/raw/canonical_images\Cat\cat3.jpg,cat,1,0,0.5615568161010742
+llama4-scout,cat,data/raw/canonical_images\Cat\cat4.jpg,cat,1,0,0.5189437866210938
+llama4-scout,cat,data/raw/canonical_images\Cat\cat5.jpg,cat,1,0,0.7922306060791016
+llama4-scout,cat,data/raw/canonical_images\Cat\cat6.jpg,cat,1,0,0.49684786796569824
+llama4-scout,cat,data/raw/canonical_images\Cat\cat7.jpg,cat,1,0,0.5116090774536133
+llama4-scout,cat,data/raw/canonical_images\Cat\cat8.jpg,cat,1,0,0.787745475769043
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\Cheetah full body_2.jpg,cheetah,1,0,1.2945442199707031
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\Cheetah full body_3.jpg,cheetah,1,0,0.6443126201629639
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\cheetah1.jpg,cheetah,1,0,0.4901738166809082
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\cheetah2.jpg,cheetah,1,0,0.5283641815185547
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\cheetah3.jpg,cheetah,1,0,0.6106171607971191
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\cheetah4.jpg,cheetah,1,0,0.4724576473236084
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\cheetah5.jpg,cheetah,1,0,0.5059201717376709
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\cheetah6.jpg,cheetah,1,0,0.49421072006225586
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\cheetah7.jpg,cheetah,1,0,0.4786214828491211
+llama4-scout,cheetah,data/raw/canonical_images\Cheetah\cheetah8.jpg,cheetah,1,0,0.6441173553466797
+llama4-scout,deer,data/raw/canonical_images\Deer\deer 2.jpg,deer,1,0,0.4891233444213867
+llama4-scout,deer,data/raw/canonical_images\Deer\deer 9.jpg,deer,1,0,0.5234146118164062
+llama4-scout,deer,data/raw/canonical_images\Deer\Deer full body_1.jpg,deer,1,0,0.7013454437255859
+llama4-scout,deer,data/raw/canonical_images\Deer\Deer full body_4.jpg,deer,1,0,1.5263993740081787
+llama4-scout,deer,data/raw/canonical_images\Deer\Deer full body_5.jpg,deer,1,0,0.43403124809265137
+llama4-scout,deer,data/raw/canonical_images\Deer\Deer full body_6.jpg,deer,1,0,0.6111090183258057
+llama4-scout,deer,data/raw/canonical_images\Deer\deer1.jpg,elk,0,0,0.4723997116088867
+llama4-scout,deer,data/raw/canonical_images\Deer\deer3.jpg,deer,1,0,0.508521318435669
+llama4-scout,deer,data/raw/canonical_images\Deer\deer4.jpg,deer,1,0,0.5037550926208496
+llama4-scout,deer,data/raw/canonical_images\Deer\deer5.jpg,deer,1,0,0.5295701026916504
+llama4-scout,dog,data/raw/canonical_images\Dog\dog 1.jpg,dog,1,0,0.5285673141479492
+llama4-scout,dog,data/raw/canonical_images\Dog\dog 2.jpg,dog,1,0,0.5269775390625
+llama4-scout,dog,data/raw/canonical_images\Dog\dog 3.jpg,dog,1,0,0.5132861137390137
+llama4-scout,dog,data/raw/canonical_images\Dog\dog 5.jpg,dog,1,0,0.5198683738708496
+llama4-scout,dog,data/raw/canonical_images\Dog\dog 7.jpg,dog,1,0,0.5050239562988281
+llama4-scout,dog,data/raw/canonical_images\Dog\dog.jpg,dog,1,0,0.5245304107666016
+llama4-scout,dog,data/raw/canonical_images\Dog\dog4.jpg,dog,1,0,0.5409314632415771
+llama4-scout,dog,data/raw/canonical_images\Dog\dog6.jpg,dog,1,0,0.47339653968811035
+llama4-scout,dog,data/raw/canonical_images\Dog\dog8.jpg,dog,1,0,0.6580910682678223
+llama4-scout,dog,data/raw/canonical_images\Dog\dog9.jpg,dog,1,0,0.6157889366149902
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elelephant 7.jpg,elephant,1,0,0.5189344882965088
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elephant 5.jpg,elephant,1,0,0.5369486808776855
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elephant 8.jpg,elephant,1,0,0.6786446571350098
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elephant 9.jpg,elephant,1,0,0.646998405456543
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elephant1.jpg,elephant,1,0,0.5906026363372803
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elephant10.jpg,elephant,1,0,0.5228466987609863
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elephant2.jpg,elephant,1,0,0.576190710067749
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elephant3.jpg,elephant,1,0,0.7361688613891602
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elephant4.jpg,elephant,1,0,0.7550661563873291
+llama4-scout,elephant,data/raw/canonical_images\Elephant\elephant6.jpg,elephant,1,0,0.8135037422180176
+llama4-scout,fossa,data/raw/canonical_images\Fossa\Fossa animal full body_0.jpg,fossa,1,0,0.49196481704711914
+llama4-scout,fossa,data/raw/canonical_images\Fossa\Fossa animal full body_3.jpg,thylacine,0,0,0.6860411167144775
+llama4-scout,fossa,data/raw/canonical_images\Fossa\Fossa animal full body_4.jpg,fossa,1,0,0.4915759563446045
+llama4-scout,fossa,data/raw/canonical_images\Fossa\Fossa animal full body_5.jpg,binturong,0,0,0.5036180019378662
+llama4-scout,fossa,data/raw/canonical_images\Fossa\Fossa animal full body_6.jpg,binturong,0,0,0.5622224807739258
+llama4-scout,fossa,data/raw/canonical_images\Fossa\fossa1.jpg,fossa,1,0,0.4867122173309326
+llama4-scout,fossa,data/raw/canonical_images\Fossa\fossa10.jpg,fossa,1,0,0.6378960609436035
+llama4-scout,fossa,data/raw/canonical_images\Fossa\fossa2.jpg,fossa,1,0,0.5230579376220703
+llama4-scout,fossa,data/raw/canonical_images\Fossa\fossa3.jpg,fossa,1,0,0.5176446437835693
+llama4-scout,fossa,data/raw/canonical_images\Fossa\fossa4.jpg,fossa,1,0,0.46724390983581543
+llama4-scout,fox,data/raw/canonical_images\Fox\fox1.jpg,fox,1,0,0.48858189582824707
+llama4-scout,fox,data/raw/canonical_images\Fox\fox10.jpg,fox,1,0,0.5943388938903809
+llama4-scout,fox,data/raw/canonical_images\Fox\fox2.jpg,fox,1,0,0.6070394515991211
+llama4-scout,fox,data/raw/canonical_images\Fox\fox3.jpg,fox,1,0,0.492725133895874
+llama4-scout,fox,data/raw/canonical_images\Fox\fox4.jpg,fox,1,0,0.6606431007385254
+llama4-scout,fox,data/raw/canonical_images\Fox\fox5.jpg,fox,1,0,0.4909534454345703
+llama4-scout,fox,data/raw/canonical_images\Fox\fox6.jpg,fox,1,0,0.4590334892272949
+llama4-scout,fox,data/raw/canonical_images\Fox\fox7.jpg,fox,1,0,0.5338373184204102
+llama4-scout,fox,data/raw/canonical_images\Fox\fox8.jpg,fox,1,0,0.5597305297851562
+llama4-scout,fox,data/raw/canonical_images\Fox\fox9.jpg,fox,1,0,0.505145788192749
+llama4-scout,horse,data/raw/canonical_images\Horse\horse 10.jpg,horse,1,0,0.44495701789855957
+llama4-scout,horse,data/raw/canonical_images\Horse\horse 8.jpg,horse,1,0,0.5262212753295898
+llama4-scout,horse,data/raw/canonical_images\Horse\horse1.jpg,horse,1,0,0.5295629501342773
+llama4-scout,horse,data/raw/canonical_images\Horse\horse2.jpg,horse,1,0,0.49628567695617676
+llama4-scout,horse,data/raw/canonical_images\Horse\horse3.jpg,horse,1,0,0.4541475772857666
+llama4-scout,horse,data/raw/canonical_images\Horse\horse4.jpg,horse,1,0,0.5910477638244629
+llama4-scout,horse,data/raw/canonical_images\Horse\horse5.jpg,horse,1,0,0.4441535472869873
+llama4-scout,horse,data/raw/canonical_images\Horse\horse6.jpg,horse,1,0,0.9464912414550781
+llama4-scout,horse,data/raw/canonical_images\Horse\horse7.jpg,horse,1,0,0.5615508556365967
+llama4-scout,horse,data/raw/canonical_images\Horse\horse9.jpg,horse,1,0,0.527313232421875
+llama4-scout,hyena,data/raw/canonical_images\Hyena\Hyena full body_2.jpg,hyena,1,0,0.47095751762390137
+llama4-scout,hyena,data/raw/canonical_images\Hyena\Hyena full body_3.jpg,hyena,1,0,1.023620367050171
+llama4-scout,hyena,data/raw/canonical_images\Hyena\Hyena full body_6.jpg,hyena,1,0,0.4784524440765381
+llama4-scout,hyena,data/raw/canonical_images\Hyena\hyena1.jpg,hyena,1,0,0.46517395973205566
+llama4-scout,hyena,data/raw/canonical_images\Hyena\hyena2.jpg,hyena,1,0,0.4848461151123047
+llama4-scout,hyena,data/raw/canonical_images\Hyena\hyena3.jpg,hyena,1,0,0.5933480262756348
+llama4-scout,hyena,data/raw/canonical_images\Hyena\hyena5.jpg,hyena,1,0,0.6032941341400146
+llama4-scout,hyena,data/raw/canonical_images\Hyena\hyena6.jpg,hyena,1,0,0.6633255481719971
+llama4-scout,hyena,data/raw/canonical_images\Hyena\hyena7.jpg,hyena,1,0,0.7611801624298096
+llama4-scout,hyena,data/raw/canonical_images\Hyena\hyena9.jpg,hyena,1,0,0.5927383899688721
+llama4-scout,leopard,data/raw/canonical_images\Leopard\Leopard full body_0.jpg,leopard,1,0,0.7246439456939697
+llama4-scout,leopard,data/raw/canonical_images\Leopard\Leopard full body_2.jpg,leopard,1,0,0.7058537006378174
+llama4-scout,leopard,data/raw/canonical_images\Leopard\leopard1.jpg,leopard,1,0,0.6513056755065918
+llama4-scout,leopard,data/raw/canonical_images\Leopard\leopard2.jpg,leopard,1,0,0.8360888957977295
+llama4-scout,leopard,data/raw/canonical_images\Leopard\leopard3.jpg,leopard,1,0,0.9108879566192627
+llama4-scout,leopard,data/raw/canonical_images\Leopard\leopard4.jpg,leopard,1,0,0.6607222557067871
+llama4-scout,leopard,data/raw/canonical_images\Leopard\leopard5.jpg,leopard,1,0,1.3748204708099365
+llama4-scout,leopard,data/raw/canonical_images\Leopard\leopard6.jpg,leopard,1,0,1.2387633323669434
+llama4-scout,leopard,data/raw/canonical_images\Leopard\leopard7.jpg,leopard,1,0,1.655677080154419
+llama4-scout,leopard,data/raw/canonical_images\Leopard\leopard8.jpg,leopard,1,0,1.6120977401733398
+llama4-scout,lion,data/raw/canonical_images\Lion\lion1.jpg,lion,1,0,1.3599841594696045
+llama4-scout,lion,data/raw/canonical_images\Lion\lion10.jpg,lion,1,0,1.2363512516021729
+llama4-scout,lion,data/raw/canonical_images\Lion\lion2.jpg,lion,1,0,1.2963166236877441
+llama4-scout,lion,data/raw/canonical_images\Lion\lion3.jpg,lion,1,0,1.9183566570281982
+llama4-scout,lion,data/raw/canonical_images\Lion\lion4.jpg,lion,1,0,1.5823686122894287
+llama4-scout,lion,data/raw/canonical_images\Lion\lion5.jpg,lion,1,0,0.8661670684814453
+llama4-scout,lion,data/raw/canonical_images\Lion\lion6.jpg,lioness,0,0,1.5709705352783203
+llama4-scout,lion,data/raw/canonical_images\Lion\lion7.jpg,lion,1,0,1.5296080112457275
+llama4-scout,lion,data/raw/canonical_images\Lion\lion8.jpg,lion,1,0,1.092284917831421
+llama4-scout,lion,data/raw/canonical_images\Lion\lion9.jpg,lion,1,0,1.6179912090301514
+llama4-scout,numbat,data/raw/canonical_images\Numbat\Numbat animal full body_0.jpg,bilby,0,0,1.5322539806365967
+llama4-scout,numbat,data/raw/canonical_images\Numbat\Numbat animal full body_1.jpg,quokka,0,0,1.554236888885498
+llama4-scout,numbat,data/raw/canonical_images\Numbat\Numbat animal full body_4.jpg,coyote,0,0,0.6862456798553467
+llama4-scout,numbat,data/raw/canonical_images\Numbat\numbat1.jpg,quokka,0,0,0.9630484580993652
+llama4-scout,numbat,data/raw/canonical_images\Numbat\numbat2.jpg,quokka,0,0,0.7048346996307373
+llama4-scout,numbat,data/raw/canonical_images\Numbat\numbat3.jpg,bandicoot,0,0,0.6060707569122314
+llama4-scout,numbat,data/raw/canonical_images\Numbat\numbat4.jpg,quokka,0,0,0.6255326271057129
+llama4-scout,numbat,data/raw/canonical_images\Numbat\numbat5.jpg,quokka,0,0,0.506601095199585
+llama4-scout,numbat,data/raw/canonical_images\Numbat\numbat6.jpg,quoll,0,0,0.5423247814178467
+llama4-scout,numbat,data/raw/canonical_images\Numbat\numbat7.jpg,squirrel,0,0,0.6668200492858887
+llama4-scout,okapi,data/raw/canonical_images\Okapi\Okapi animal full body_1.jpg,okapi,1,0,0.6357440948486328
+llama4-scout,okapi,data/raw/canonical_images\Okapi\Okapi animal full body_2.jpg,okapi,1,0,0.9082984924316406
+llama4-scout,okapi,data/raw/canonical_images\Okapi\Okapi animal full body_3.jpg,okapi,1,0,0.5844779014587402
+llama4-scout,okapi,data/raw/canonical_images\Okapi\Okapi animal full body_6.jpg,zebra,0,0,0.7037267684936523
+llama4-scout,okapi,data/raw/canonical_images\Okapi\okapi1.jpg,okapi,1,0,0.5323457717895508
+llama4-scout,okapi,data/raw/canonical_images\Okapi\okapi2.jpg,okapi,1,0,0.5678727626800537
+llama4-scout,okapi,data/raw/canonical_images\Okapi\okapi3.jpg,okapi,1,0,0.6912803649902344
+llama4-scout,okapi,data/raw/canonical_images\Okapi\okapi4.jpg,okapi,1,0,0.5551989078521729
+llama4-scout,okapi,data/raw/canonical_images\Okapi\okapi5.jpg,okapia,0,0,0.6065073013305664
+llama4-scout,okapi,data/raw/canonical_images\Okapi\okapi6.jpg,okapi,1,0,0.606062650680542
+llama4-scout,serval,data/raw/canonical_images\Serval\Serval animal full body_0.jpg,serval,1,0,1.0485186576843262
+llama4-scout,serval,data/raw/canonical_images\Serval\Serval animal full body_7.jpg,serval,1,0,0.6285157203674316
+llama4-scout,serval,data/raw/canonical_images\Serval\serval1.jpg,serval,1,0,0.5109860897064209
+llama4-scout,serval,data/raw/canonical_images\Serval\serval2.jpg,serval,1,0,0.5297954082489014
+llama4-scout,serval,data/raw/canonical_images\Serval\serval3.jpg,serval,1,0,0.5140712261199951
+llama4-scout,serval,data/raw/canonical_images\Serval\serval4.jpg,serval,1,0,0.6863894462585449
+llama4-scout,serval,data/raw/canonical_images\Serval\serval5.jpg,serval,1,0,0.5663003921508789
+llama4-scout,serval,data/raw/canonical_images\Serval\serval6.jpg,serval,1,0,0.553701639175415
+llama4-scout,serval,data/raw/canonical_images\Serval\serval7.jpg,serval,1,0,0.5103573799133301
+llama4-scout,serval,data/raw/canonical_images\Serval\serval8.jpg,serval,1,0,0.48627233505249023

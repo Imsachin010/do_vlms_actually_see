@@ -1,0 +1,22 @@
+{
+  "image_id": "numbat_5legs_natural",
+  "concept": "numbat",
+  "background": "natural",
+  "objects": [
+    "numbat"
+  ],
+  "attributes": {
+    "numbat": {
+      "color": "red-brown",
+      "size": "small"
+    }
+  },
+  "relations": [
+    "numbat has a front-left leg",
+    "numbat has a front-right leg",
+    "numbat has a hind-left leg",
+    "numbat has a hind-right leg",
+    "numbat has an additional hind leg",
+    "numbat stands in natural habitat"
+  ]
+}

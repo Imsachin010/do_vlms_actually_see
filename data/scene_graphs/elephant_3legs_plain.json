@@ -1,0 +1,20 @@
+{
+  "image_id": "elephant_3legs_plain",
+  "concept": "elephant",
+  "background": "plain",
+  "objects": [
+    "elephant"
+  ],
+  "attributes": {
+    "elephant": {
+      "color": "gray",
+      "size": "very large"
+    }
+  },
+  "relations": [
+    "elephant has a front-left leg",
+    "elephant has a front-right leg",
+    "elephant has a hind-left leg",
+    "elephant stands on plain white background"
+  ]
+}

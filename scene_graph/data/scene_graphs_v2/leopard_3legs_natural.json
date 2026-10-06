@@ -1,0 +1,20 @@
+{
+  "image_id": "leopard_3legs_natural",
+  "concept": "leopard",
+  "background": "natural",
+  "objects": [
+    "leopard"
+  ],
+  "attributes": {
+    "leopard": {
+      "color": "spotted",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "leopard has a front-left leg",
+    "leopard has a front-right leg",
+    "leopard has a hind-left leg",
+    "leopard stands in natural habitat"
+  ]
+}

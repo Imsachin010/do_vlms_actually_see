@@ -1,0 +1,22 @@
+{
+  "image_id": "deer_5legs_plain",
+  "concept": "deer",
+  "background": "plain",
+  "objects": [
+    "deer"
+  ],
+  "attributes": {
+    "deer": {
+      "color": "brown",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "deer has a front-left leg",
+    "deer has a front-right leg",
+    "deer has a hind-left leg",
+    "deer has a hind-right leg",
+    "deer has an additional hind leg",
+    "deer stands on plain white background"
+  ]
+}

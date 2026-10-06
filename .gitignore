@@ -1,0 +1,34 @@
+# secrets
+.env
+*.pem
+keys/
+credentials/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# outputs & caches
+outputs/
+figures_generated/
+*.log
+wandb/
+weights/
+*.gguf
+*.safetensors
+*.bin
+
+# os / editor
+.DS_Store
+Thumbs.db
+
+# non-public material
+drafts/
+rebuttal/
+paper/
+*.pdf
+!docs/*.pdf
+!assets/*.pdf

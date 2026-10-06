@@ -1,0 +1,20 @@
+{
+  "image_id": "binturong_3legs_natural",
+  "concept": "binturong",
+  "background": "natural",
+  "objects": [
+    "binturong"
+  ],
+  "attributes": {
+    "binturong": {
+      "color": "black",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "binturong has a front-left leg",
+    "binturong has a front-right leg",
+    "binturong has a hind-left leg",
+    "binturong stands in natural habitat"
+  ]
+}

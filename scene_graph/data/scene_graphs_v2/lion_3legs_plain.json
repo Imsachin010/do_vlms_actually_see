@@ -1,0 +1,20 @@
+{
+  "image_id": "lion_3legs_plain",
+  "concept": "lion",
+  "background": "plain",
+  "objects": [
+    "lion"
+  ],
+  "attributes": {
+    "lion": {
+      "color": "golden",
+      "size": "large"
+    }
+  },
+  "relations": [
+    "lion has a front-left leg",
+    "lion has a front-right leg",
+    "lion has a hind-left leg",
+    "lion stands on plain white background"
+  ]
+}

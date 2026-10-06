@@ -1,0 +1,13 @@
+# ==============================================================================
+# Single Source of Truth: Evaluation Prompts
+# Paper: "Do Vision-Language Models Actually See?" (TMLR 2026)
+# ==============================================================================
+
+[IMAGE_CONDITION]
+How many legs does this animal exactly have in this image? Do not use prior knowledge about animals. Answer with just a single number integer, nothing else.
+
+[SCENE_GRAPH_CONDITION]
+Based strictly on the provided scene graph, how many appendages does the subject entity possess? Answer with a single integer.
+
+[LEXICAL_PRIOR_CONDITION]
+How many legs does a typical adult animal of this species have? Answer with just a single integer.

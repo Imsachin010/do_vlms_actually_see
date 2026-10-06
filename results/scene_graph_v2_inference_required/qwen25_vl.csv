@@ -1,0 +1,163 @@
+image_id,concept,true_legs,background,model_response_raw,parsed_answer,correct,prior_aligned_error,off-by-one_error,other_error,status,model,model_id,engine,error
+dog_3legs_plain,dog,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b482c-51ec161272b5daa02236d402;621c0f32-f47b-4b1c-b78f-7294204284db)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+dog_3legs_natural,dog,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4861-3d03641e53160cef3d6f0002;267b8f9d-f91b-4470-9738-57abb5846d94)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+dog_5legs_plain,dog,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b489e-64b82556682fb01f1a943fe3;1801a651-e210-4877-9cd1-ef4627826a9a)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+dog_5legs_natural,dog,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b48d2-69f8897d2091ebeb10d47b81;e690e934-1175-4710-8adf-2883340efed9)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+cat_3legs_plain,cat,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4905-543c2b8e3de7c123108a8afa;bb3f679c-8504-4ed1-abf8-a1e360366376)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+cat_3legs_natural,cat,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4939-0f955c4054642522194389d3;be116134-05e8-43cb-94db-5b72b5f66b92)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+cat_5legs_plain,cat,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b496d-3b56322a2e179da739d3056a;a3755db2-55b2-48c2-b44e-78546281893d)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+cat_5legs_natural,cat,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b49ab-2a1af0dd559a39bb3f9f344f;78c6f31d-ca39-468d-b406-b30d4789feae)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+lion_3legs_plain,lion,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b49e1-656c9561102a4b89236c4c45;722c92aa-d490-4467-a934-f604e65a7234)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+lion_3legs_natural,lion,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4a14-5fe15eb82a6583fb0056f449;877a3c9f-1541-4b01-a04c-87ab311101e7)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+lion_5legs_plain,lion,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4a4a-00e40cbc49833c1f74feed8b;98972b71-6f1f-46d1-adf9-6e383757ac65)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+lion_5legs_natural,lion,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4a7e-5890ee7e58a5cfde22a9965d;41f816a6-d053-44f2-9fd4-16d919881b25)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+elephant_3legs_plain,elephant,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4ab2-73f1fc3743eb55e0203f55ba;4662f033-acea-41ee-a78d-fe37fd82a503)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+elephant_3legs_natural,elephant,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4af5-52ec5a1e745232b45022e80b;b9cb474d-c28e-4816-ba19-f8ddb9879e2d)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+elephant_5legs_plain,elephant,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4b28-11b11c02404f2d342624af1d;adf095d8-71d7-4729-86da-b977fc036421)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+elephant_5legs_natural,elephant,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4b61-3707d1265042e5dc5c6b7ba2;185f0e18-8edb-43ca-93c6-2dc5795ab837)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+horse_3legs_plain,horse,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4b9c-55b76547196024b560bfb346;54aee7fe-7474-4b3a-9f79-063b6d4f41d2)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+horse_3legs_natural,horse,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"429 Client Error: Too Many Requests for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4bd5-2da07f9b5a20f9200a1c9894;0b51d28f-2c01-465c-a654-4c6f35bac61d)
+
+{'message': 'Your current plan only allows you to switch models Infinity times per minute. Please try again later or upgrade your plan to increase this limit.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_switching_limit_exceeded'}"
+horse_5legs_plain,horse,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4c0c-1a0ce85e36689c093bcfc686;9f2ddaba-12dd-4642-a8fb-7611b2d0011a)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+horse_5legs_natural,horse,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4c42-2aa348c02148a03d5203d5d5;932bff16-0493-4a0d-9d64-89f8bc16aaee)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+cheetah_3legs_plain,cheetah,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4c79-32abe2e903f2751342cfa95a;ff4f8f8c-d4cc-4949-9cac-0ad2170ebf40)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+cheetah_3legs_natural,cheetah,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4cad-6a5676e45284c49e05c7452a;04cb64ac-2f91-4661-8276-72388ee2ed31)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+cheetah_5legs_plain,cheetah,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4cdf-6d8bd3261fc05cd51125a14e;81890276-a1d4-4f13-aa39-60e61d6c1c36)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+cheetah_5legs_natural,cheetah,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4d17-6178df0a25ab51614e62c18a;9b79887a-68dc-463d-b5dd-458fc3f16ee7)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+leopard_3legs_plain,leopard,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4d4a-4c028b9612319a981256677e;4dcc57a6-3120-4c48-9ccc-405d68224b18)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+leopard_3legs_natural,leopard,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4d7e-53f2ef0b50151e226fa0e843;c3332d61-b23f-49c8-8daf-569d24beda4a)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+leopard_5legs_plain,leopard,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4db1-01bd56cb28a43ee25a28cd0e;0b3aed40-f845-4564-852e-72122f467ef5)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+leopard_5legs_natural,leopard,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4de6-5bae8f213dc91c262c996bb0;d8de4682-ad03-435d-8245-78fc44253bce)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+fox_3legs_plain,fox,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4e19-637c9cd97802ea982bbca068;bc805276-589c-4bf1-a194-d34ce7790286)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+fox_3legs_natural,fox,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4e52-3c6aae51520bb2421c491511;16e15327-4ad5-4c5d-a344-ab2d28db9930)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+fox_5legs_plain,fox,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4e87-4027c74a1ecd1df347e64553;6ad82e37-db40-467e-b256-a2b81b25307b)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+fox_5legs_natural,fox,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4eba-5f5c34a3466cada31120e4c4;e7722c84-917d-4136-87d8-641286819757)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+deer_3legs_plain,deer,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4eee-468b35793823f2a10753dfb2;f1720396-2efc-491a-b96d-686ed61f9779)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+deer_3legs_natural,deer,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4f21-5b8b45c44aa0cd77011ed57f;27a13633-acee-426e-aadd-c53167f0d7fe)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+deer_5legs_plain,deer,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4f55-58214aa46b6ddb660261a99d;904953d9-97d3-4be8-a8a5-6809e9c9aa0e)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+deer_5legs_natural,deer,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4f8c-1357955b630fe91f7401317d;07b21311-4a05-4dc3-a7a7-a59fa941c9d6)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+hyena_3legs_plain,hyena,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4fc0-41be67180b10bd796f6dc93b;bace2754-f615-44e5-bb7c-2901e274720b)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+hyena_3legs_natural,hyena,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b4ff5-168cf4345d4a0deb605b20c4;48dfcb4a-7289-4883-86c2-43d3b3959b0c)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+hyena_5legs_plain,hyena,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b5028-71168f235d19abc00cf3b1f6;90b4c1f9-cf85-4277-baa0-5ea8f184753f)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+hyena_5legs_natural,hyena,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b505b-2db0e63657eb2c634b6c4d42;d1fc9e98-202b-4e91-9ac6-7d82ff0228e6)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+serval_3legs_plain,serval,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b5090-1734964b1f59e1491937d7c0;225b44ad-389c-41b2-8a2d-6c040225f383)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+serval_3legs_natural,serval,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b50c4-75f909272cc01b726e9c98ce;06039275-016e-4641-9c41-91a935463ed6)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+serval_5legs_plain,serval,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b50f8-40f733213d0b78e7132cbbbf;373c75b6-fd3a-41b2-90c7-54ac1428037c)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+serval_5legs_natural,serval,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b512b-5d20ba505a0e3c5d724e5f64;4050018d-2f3a-45da-af32-9e2424dca726)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+binturong_3legs_plain,binturong,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b5160-3c6ff67f27321b9932a984c4;dfa3f27e-8f9b-47a4-ab4b-1c2a2fc15e69)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+binturong_3legs_natural,binturong,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b5193-4def688a6a8c74402a6bdb49;1ee56441-c03d-473c-b2a2-870fb725a003)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+binturong_5legs_plain,binturong,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b51c8-0fca96e839f4164202d671e9;943e57fe-d9bd-4be8-a9a7-6a6df839a513)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+binturong_5legs_natural,binturong,5,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b51fc-6754de4101211c6f31ff607c;2f44fa58-319b-4b57-8499-589589a2bfd9)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+numbat_3legs_plain,numbat,3,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b5230-0ef754d9651eafd3285da965;47b419ef-94b3-491b-9c41-543425214a61)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+numbat_3legs_natural,numbat,3,natural,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b5263-4b84eb0f25f2dc627fd4a907;6247b8a6-f84a-4550-a0ce-d9be5aca3f34)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+numbat_5legs_plain,numbat,5,plain,,-1,0,0,0,1,api_error,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,"503 Server Error: Service Unavailable for url: https://router.huggingface.co/featherless-ai/v1/chat/completions (Request ID: Root=1-6a7b5297-1d9c4cad40cb284b0cafad2c;21d40e07-e88e-417e-9358-3322af97dc87)
+
+{'message': 'Qwen/Qwen2.5-VL-7B-Instruct is temporarily at capacity. Please try again shortly.', 'type': 'server_error', 'code': 'capacity_exhausted'}"
+numbat_5legs_natural,numbat,5,natural,5,5,1,0,0,0,ok,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,
+fossa_3legs_plain,fossa,3,plain,3,3,1,0,0,0,ok,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,
+fossa_3legs_natural,fossa,3,natural,3,3,1,0,0,0,ok,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,
+fossa_5legs_plain,fossa,5,plain,5,5,1,0,0,0,ok,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,
+fossa_5legs_natural,fossa,5,natural,5,5,1,0,0,0,ok,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,
+okapi_3legs_plain,okapi,3,plain,3,3,1,0,0,0,ok,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,
+okapi_3legs_natural,okapi,3,natural,3,3,1,0,0,0,ok,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,
+okapi_5legs_plain,okapi,5,plain,5,5,1,0,0,0,ok,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,
+okapi_5legs_natural,okapi,5,natural,5,5,1,0,0,0,ok,Qwen2.5-VL,Qwen/Qwen2.5-VL-7B-Instruct,hf,

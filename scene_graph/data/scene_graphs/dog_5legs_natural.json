@@ -1,0 +1,20 @@
+{
+  "image_id": "dog_5legs_natural",
+  "concept": "dog",
+  "true_legs": 5,
+  "background": "natural",
+  "objects": [
+    "dog"
+  ],
+  "attributes": {
+    "dog": {
+      "color": "brown",
+      "size": "medium",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "dog has 5 legs",
+    "dog stands in natural habitat"
+  ]
+}

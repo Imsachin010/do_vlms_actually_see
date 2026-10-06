@@ -1,0 +1,22 @@
+{
+  "image_id": "leopard_5legs_plain",
+  "concept": "leopard",
+  "background": "plain",
+  "objects": [
+    "leopard"
+  ],
+  "attributes": {
+    "leopard": {
+      "color": "spotted",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "leopard has a front-left leg",
+    "leopard has a front-right leg",
+    "leopard has a hind-left leg",
+    "leopard has a hind-right leg",
+    "leopard has an additional hind leg",
+    "leopard stands on plain white background"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "image_id": "dog_5legs_natural",
+  "concept": "dog",
+  "background": "natural",
+  "objects": [
+    "dog"
+  ],
+  "attributes": {
+    "dog": {
+      "color": "brown",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "dog has a front-left leg",
+    "dog has a front-right leg",
+    "dog has a hind-left leg",
+    "dog has a hind-right leg",
+    "dog has an additional hind leg",
+    "dog stands in natural habitat"
+  ]
+}

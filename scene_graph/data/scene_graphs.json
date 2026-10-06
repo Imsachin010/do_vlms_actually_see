@@ -1,0 +1,1202 @@
+[
+  {
+    "image_id": "dog_3legs_plain",
+    "concept": "dog",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "dog"
+    ],
+    "attributes": {
+      "dog": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "dog has 3 legs",
+      "dog stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "dog_3legs_natural",
+    "concept": "dog",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "dog"
+    ],
+    "attributes": {
+      "dog": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "dog has 3 legs",
+      "dog stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "dog_5legs_plain",
+    "concept": "dog",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "dog"
+    ],
+    "attributes": {
+      "dog": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "dog has 5 legs",
+      "dog stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "dog_5legs_natural",
+    "concept": "dog",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "dog"
+    ],
+    "attributes": {
+      "dog": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "dog has 5 legs",
+      "dog stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "cat_3legs_plain",
+    "concept": "cat",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "cat"
+    ],
+    "attributes": {
+      "cat": {
+        "color": "orange",
+        "size": "small",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "cat has 3 legs",
+      "cat stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "cat_3legs_natural",
+    "concept": "cat",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "cat"
+    ],
+    "attributes": {
+      "cat": {
+        "color": "orange",
+        "size": "small",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "cat has 3 legs",
+      "cat stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "cat_5legs_plain",
+    "concept": "cat",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "cat"
+    ],
+    "attributes": {
+      "cat": {
+        "color": "orange",
+        "size": "small",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "cat has 5 legs",
+      "cat stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "cat_5legs_natural",
+    "concept": "cat",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "cat"
+    ],
+    "attributes": {
+      "cat": {
+        "color": "orange",
+        "size": "small",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "cat has 5 legs",
+      "cat stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "lion_3legs_plain",
+    "concept": "lion",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "lion"
+    ],
+    "attributes": {
+      "lion": {
+        "color": "golden",
+        "size": "large",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "lion has 3 legs",
+      "lion stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "lion_3legs_natural",
+    "concept": "lion",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "lion"
+    ],
+    "attributes": {
+      "lion": {
+        "color": "golden",
+        "size": "large",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "lion has 3 legs",
+      "lion stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "lion_5legs_plain",
+    "concept": "lion",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "lion"
+    ],
+    "attributes": {
+      "lion": {
+        "color": "golden",
+        "size": "large",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "lion has 5 legs",
+      "lion stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "lion_5legs_natural",
+    "concept": "lion",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "lion"
+    ],
+    "attributes": {
+      "lion": {
+        "color": "golden",
+        "size": "large",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "lion has 5 legs",
+      "lion stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "elephant_3legs_plain",
+    "concept": "elephant",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "elephant"
+    ],
+    "attributes": {
+      "elephant": {
+        "color": "gray",
+        "size": "very large",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "elephant has 3 legs",
+      "elephant stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "elephant_3legs_natural",
+    "concept": "elephant",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "elephant"
+    ],
+    "attributes": {
+      "elephant": {
+        "color": "gray",
+        "size": "very large",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "elephant has 3 legs",
+      "elephant stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "elephant_5legs_plain",
+    "concept": "elephant",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "elephant"
+    ],
+    "attributes": {
+      "elephant": {
+        "color": "gray",
+        "size": "very large",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "elephant has 5 legs",
+      "elephant stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "elephant_5legs_natural",
+    "concept": "elephant",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "elephant"
+    ],
+    "attributes": {
+      "elephant": {
+        "color": "gray",
+        "size": "very large",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "elephant has 5 legs",
+      "elephant stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "horse_3legs_plain",
+    "concept": "horse",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "horse"
+    ],
+    "attributes": {
+      "horse": {
+        "color": "brown",
+        "size": "large",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "horse has 3 legs",
+      "horse stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "horse_3legs_natural",
+    "concept": "horse",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "horse"
+    ],
+    "attributes": {
+      "horse": {
+        "color": "brown",
+        "size": "large",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "horse has 3 legs",
+      "horse stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "horse_5legs_plain",
+    "concept": "horse",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "horse"
+    ],
+    "attributes": {
+      "horse": {
+        "color": "brown",
+        "size": "large",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "horse has 5 legs",
+      "horse stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "horse_5legs_natural",
+    "concept": "horse",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "horse"
+    ],
+    "attributes": {
+      "horse": {
+        "color": "brown",
+        "size": "large",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "horse has 5 legs",
+      "horse stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "cheetah_3legs_plain",
+    "concept": "cheetah",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "cheetah"
+    ],
+    "attributes": {
+      "cheetah": {
+        "color": "yellow",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "cheetah has 3 legs",
+      "cheetah stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "cheetah_3legs_natural",
+    "concept": "cheetah",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "cheetah"
+    ],
+    "attributes": {
+      "cheetah": {
+        "color": "yellow",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "cheetah has 3 legs",
+      "cheetah stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "cheetah_5legs_plain",
+    "concept": "cheetah",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "cheetah"
+    ],
+    "attributes": {
+      "cheetah": {
+        "color": "yellow",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "cheetah has 5 legs",
+      "cheetah stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "cheetah_5legs_natural",
+    "concept": "cheetah",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "cheetah"
+    ],
+    "attributes": {
+      "cheetah": {
+        "color": "yellow",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "cheetah has 5 legs",
+      "cheetah stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "leopard_3legs_plain",
+    "concept": "leopard",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "leopard"
+    ],
+    "attributes": {
+      "leopard": {
+        "color": "spotted",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "leopard has 3 legs",
+      "leopard stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "leopard_3legs_natural",
+    "concept": "leopard",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "leopard"
+    ],
+    "attributes": {
+      "leopard": {
+        "color": "spotted",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "leopard has 3 legs",
+      "leopard stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "leopard_5legs_plain",
+    "concept": "leopard",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "leopard"
+    ],
+    "attributes": {
+      "leopard": {
+        "color": "spotted",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "leopard has 5 legs",
+      "leopard stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "leopard_5legs_natural",
+    "concept": "leopard",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "leopard"
+    ],
+    "attributes": {
+      "leopard": {
+        "color": "spotted",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "leopard has 5 legs",
+      "leopard stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "fox_3legs_plain",
+    "concept": "fox",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "fox"
+    ],
+    "attributes": {
+      "fox": {
+        "color": "red",
+        "size": "small",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "fox has 3 legs",
+      "fox stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "fox_3legs_natural",
+    "concept": "fox",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "fox"
+    ],
+    "attributes": {
+      "fox": {
+        "color": "red",
+        "size": "small",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "fox has 3 legs",
+      "fox stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "fox_5legs_plain",
+    "concept": "fox",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "fox"
+    ],
+    "attributes": {
+      "fox": {
+        "color": "red",
+        "size": "small",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "fox has 5 legs",
+      "fox stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "fox_5legs_natural",
+    "concept": "fox",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "fox"
+    ],
+    "attributes": {
+      "fox": {
+        "color": "red",
+        "size": "small",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "fox has 5 legs",
+      "fox stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "deer_3legs_plain",
+    "concept": "deer",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "deer"
+    ],
+    "attributes": {
+      "deer": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "deer has 3 legs",
+      "deer stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "deer_3legs_natural",
+    "concept": "deer",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "deer"
+    ],
+    "attributes": {
+      "deer": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "deer has 3 legs",
+      "deer stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "deer_5legs_plain",
+    "concept": "deer",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "deer"
+    ],
+    "attributes": {
+      "deer": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "deer has 5 legs",
+      "deer stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "deer_5legs_natural",
+    "concept": "deer",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "deer"
+    ],
+    "attributes": {
+      "deer": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "deer has 5 legs",
+      "deer stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "hyena_3legs_plain",
+    "concept": "hyena",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "hyena"
+    ],
+    "attributes": {
+      "hyena": {
+        "color": "spotted",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "hyena has 3 legs",
+      "hyena stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "hyena_3legs_natural",
+    "concept": "hyena",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "hyena"
+    ],
+    "attributes": {
+      "hyena": {
+        "color": "spotted",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "hyena has 3 legs",
+      "hyena stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "hyena_5legs_plain",
+    "concept": "hyena",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "hyena"
+    ],
+    "attributes": {
+      "hyena": {
+        "color": "spotted",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "hyena has 5 legs",
+      "hyena stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "hyena_5legs_natural",
+    "concept": "hyena",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "hyena"
+    ],
+    "attributes": {
+      "hyena": {
+        "color": "spotted",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "hyena has 5 legs",
+      "hyena stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "serval_3legs_plain",
+    "concept": "serval",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "serval"
+    ],
+    "attributes": {
+      "serval": {
+        "color": "golden",
+        "size": "small",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "serval has 3 legs",
+      "serval stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "serval_3legs_natural",
+    "concept": "serval",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "serval"
+    ],
+    "attributes": {
+      "serval": {
+        "color": "golden",
+        "size": "small",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "serval has 3 legs",
+      "serval stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "serval_5legs_plain",
+    "concept": "serval",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "serval"
+    ],
+    "attributes": {
+      "serval": {
+        "color": "golden",
+        "size": "small",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "serval has 5 legs",
+      "serval stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "serval_5legs_natural",
+    "concept": "serval",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "serval"
+    ],
+    "attributes": {
+      "serval": {
+        "color": "golden",
+        "size": "small",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "serval has 5 legs",
+      "serval stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "binturong_3legs_plain",
+    "concept": "binturong",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "binturong"
+    ],
+    "attributes": {
+      "binturong": {
+        "color": "black",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "binturong has 3 legs",
+      "binturong stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "binturong_3legs_natural",
+    "concept": "binturong",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "binturong"
+    ],
+    "attributes": {
+      "binturong": {
+        "color": "black",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "binturong has 3 legs",
+      "binturong stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "binturong_5legs_plain",
+    "concept": "binturong",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "binturong"
+    ],
+    "attributes": {
+      "binturong": {
+        "color": "black",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "binturong has 5 legs",
+      "binturong stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "binturong_5legs_natural",
+    "concept": "binturong",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "binturong"
+    ],
+    "attributes": {
+      "binturong": {
+        "color": "black",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "binturong has 5 legs",
+      "binturong stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "numbat_3legs_plain",
+    "concept": "numbat",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "numbat"
+    ],
+    "attributes": {
+      "numbat": {
+        "color": "red-brown",
+        "size": "small",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "numbat has 3 legs",
+      "numbat stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "numbat_3legs_natural",
+    "concept": "numbat",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "numbat"
+    ],
+    "attributes": {
+      "numbat": {
+        "color": "red-brown",
+        "size": "small",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "numbat has 3 legs",
+      "numbat stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "numbat_5legs_plain",
+    "concept": "numbat",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "numbat"
+    ],
+    "attributes": {
+      "numbat": {
+        "color": "red-brown",
+        "size": "small",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "numbat has 5 legs",
+      "numbat stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "numbat_5legs_natural",
+    "concept": "numbat",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "numbat"
+    ],
+    "attributes": {
+      "numbat": {
+        "color": "red-brown",
+        "size": "small",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "numbat has 5 legs",
+      "numbat stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "fossa_3legs_plain",
+    "concept": "fossa",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "fossa"
+    ],
+    "attributes": {
+      "fossa": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "fossa has 3 legs",
+      "fossa stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "fossa_3legs_natural",
+    "concept": "fossa",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "fossa"
+    ],
+    "attributes": {
+      "fossa": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "fossa has 3 legs",
+      "fossa stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "fossa_5legs_plain",
+    "concept": "fossa",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "fossa"
+    ],
+    "attributes": {
+      "fossa": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "fossa has 5 legs",
+      "fossa stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "fossa_5legs_natural",
+    "concept": "fossa",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "fossa"
+    ],
+    "attributes": {
+      "fossa": {
+        "color": "brown",
+        "size": "medium",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "fossa has 5 legs",
+      "fossa stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "okapi_3legs_plain",
+    "concept": "okapi",
+    "true_legs": 3,
+    "background": "plain",
+    "objects": [
+      "okapi"
+    ],
+    "attributes": {
+      "okapi": {
+        "color": "brown-striped",
+        "size": "large",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "okapi has 3 legs",
+      "okapi stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "okapi_3legs_natural",
+    "concept": "okapi",
+    "true_legs": 3,
+    "background": "natural",
+    "objects": [
+      "okapi"
+    ],
+    "attributes": {
+      "okapi": {
+        "color": "brown-striped",
+        "size": "large",
+        "legs": 3
+      }
+    },
+    "relations": [
+      "okapi has 3 legs",
+      "okapi stands in natural habitat"
+    ]
+  },
+  {
+    "image_id": "okapi_5legs_plain",
+    "concept": "okapi",
+    "true_legs": 5,
+    "background": "plain",
+    "objects": [
+      "okapi"
+    ],
+    "attributes": {
+      "okapi": {
+        "color": "brown-striped",
+        "size": "large",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "okapi has 5 legs",
+      "okapi stands on plain white background"
+    ]
+  },
+  {
+    "image_id": "okapi_5legs_natural",
+    "concept": "okapi",
+    "true_legs": 5,
+    "background": "natural",
+    "objects": [
+      "okapi"
+    ],
+    "attributes": {
+      "okapi": {
+        "color": "brown-striped",
+        "size": "large",
+        "legs": 5
+      }
+    },
+    "relations": [
+      "okapi has 5 legs",
+      "okapi stands in natural habitat"
+    ]
+  }
+]

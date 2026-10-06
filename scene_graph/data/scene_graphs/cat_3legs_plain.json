@@ -1,0 +1,20 @@
+{
+  "image_id": "cat_3legs_plain",
+  "concept": "cat",
+  "true_legs": 3,
+  "background": "plain",
+  "objects": [
+    "cat"
+  ],
+  "attributes": {
+    "cat": {
+      "color": "orange",
+      "size": "small",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "cat has 3 legs",
+    "cat stands on plain white background"
+  ]
+}

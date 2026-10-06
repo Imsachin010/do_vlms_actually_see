@@ -1,0 +1,20 @@
+{
+  "image_id": "horse_3legs_natural",
+  "concept": "horse",
+  "background": "natural",
+  "objects": [
+    "horse"
+  ],
+  "attributes": {
+    "horse": {
+      "color": "brown",
+      "size": "large"
+    }
+  },
+  "relations": [
+    "horse has a front-left leg",
+    "horse has a front-right leg",
+    "horse has a hind-left leg",
+    "horse stands in natural habitat"
+  ]
+}

@@ -1,0 +1,313 @@
+image,concept,true_legs,background,predicted,raw_output,status,is_biased,model,hf_id,provider,error
+binturong_3legs_natural.png,binturong,3,natural,2.0,2,ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+binturong_3legs_plain.png,binturong,3,plain,3.0,"Okay, let's count the visible legs on this animal.
+
+1.  Starting from the back, there's a leg extending backwards: {""point"": [747, 175], ""label"": ""leg""}.
+2.  Moving forward, there's another leg supporting its body: {""point"": [731, 463], ""label"": ""leg""}.
+3.  Then, towards the front, there's a leg positioned slightly forward: {""point"": [666, 818], ""label"": ""leg""}.",ok,0,Gemma-4-31B,google/gemma-4-31B-it,together,
+binturong_5legs_natural.png,binturong,5,natural,2.0,"Okay, let's count the visible legs of the animal in the image.
+
+1.  First, I see a leg on the left side, positioned slightly back: {""point"": [711, 446], ""label"": ""leg""}.
+2.  Next, there's another leg further back on the left: {""point"": [870, 358], ""label"": ""leg""}.
+3.  Then, moving to the right side, there's a leg supporting the animal's weight on the log: {""point"": [65",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+binturong_5legs_plain.png,binturong,5,plain,,,api_error,1,Gemma-4-31B,google/gemma-4-31B-it,together,"Server error '504 Gateway Time-out' for url 'https://router.huggingface.co/together/v1/chat/completions' (Amz CF ID: xBNgyuwXfRsfVmoI2F-YjkGYFKeQu9n_AUFCbDrz7EvpiLh6F8IN4w==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504"
+cat_3legs_natural.png,cat,3,natural,2.0,"Okay, let's count the legs of the cat in the image.
+
+1.  Starting from the left, there's the front left leg: `{""point"": [761, 394], ""label"": ""front left leg""}`.
+2.  Right next to it is the front right leg: `{""point"": [761, 438], ""label"": ""front right leg""}`.
+3.  Moving to the back, there's the back right leg: `{""point"": [733, 642],",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+cat_3legs_plain.png,cat,3,plain,3.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the front, here's the first leg: {""point"": [766, 365], ""label"": ""leg""}.
+2.  And right behind it is the second front leg: {""point"": [778, 412], ""label"": ""leg""}.
+3.  Moving to the back, there's a leg here: {""point"": [739, 683], ""label"": ""leg""}.
+
+I only see",ok,0,Gemma-4-31B,google/gemma-4-31B-it,together,
+cat_5legs_natural.png,cat,5,natural,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  There's one leg in the front left: {""point"": [822, 370], ""label"": ""front left leg""}.
+2.  There's another leg in the front right: {""point"": [830, 413], ""label"": ""front right leg""}.
+3.  Moving to the back, there's one leg on the back left: {""point"": [854, 619], ""label"": ""back left",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+cat_5legs_plain.png,cat,5,plain,2.0,"Okay, let's count the legs visible on the cat in the image.
+
+1.  Starting from the back left, there's one white leg here: `{""point"": [813, 214], ""label"": ""leg""}`.
+2.  Moving forward, there's the back right leg, white at the bottom: `{""point"": [851, 338], ""label"": ""leg""}`.
+3.  Then we have the front left leg, also white: `{""point"": [804, 58",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+cheetah_3legs_natural.png,cheetah,3,natural,2.0,"Okay, let's count the legs of the cheetah in the image.
+
+1.  Starting from the back, there's one leg here: {""point"": [786, 257], ""label"": ""back left leg""}.
+2.  Moving forward, there's a leg in the middle: {""point"": [687, 629], ""label"": ""front left leg""}.
+3.  And then there's another leg further forward: {""point"": [663, 780], ""label"": ""front right leg",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+cheetah_3legs_plain.png,cheetah,3,plain,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the front, there's one leg stretched forward: {""point"": [667, 782], ""label"": ""front leg""}.
+2.  Moving back slightly, there's another front leg supporting the animal: {""point"": [660, 640], ""label"": ""front leg""}.
+3.  Then, looking towards the back, there's a hind leg: {""point"": [645, 320], ""label",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+cheetah_5legs_natural.jpg,cheetah,5,natural,3.0,"Okay, let's count the legs visible on the animal in the image.
+
+1.  Starting from the back, there's one leg here: {""point"": [765, 259], ""label"": ""leg""}.
+2.  Then another one next to it: {""point"": [757, 360], ""label"": ""leg""}.
+3.  And another one just behind that: {""point"": [762, 437], ""label"": ""leg""}.
+4.  Moving forward, there's one",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+cheetah_5legs_plain.png,cheetah,5,plain,3.0,"Okay, let's count the legs visible on this animal.
+
+1.  Starting from the back left, there's one leg here: {""point"": [848, 255], ""label"": ""leg""}.
+2.  Moving slightly forward and right, there's a second leg: {""point"": [848, 352], ""label"": ""leg""}.
+3.  Continuing forward and right, there's a third leg: {""point"": [848, 444], ""label"": ""leg""}.
+4",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+deer_3legs_natural.png,deer,3,natural,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the front, there's one leg extending downwards here: `{""point"": [683, 589], ""label"": ""leg""}`.
+2.  Moving towards the back, there's another leg visible here: `{""point"": [749, 711], ""label"": ""leg""}`.
+3.  And further back, there's a third leg extended behind: `{""point"": [743, 938],",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+deer_3legs_plain.png,deer,3,plain,3.0,"Okay, let's count the legs visible on this animal.
+
+1.  Starting from the front, there's one leg here: `{""point"": [720, 442], ""label"": ""leg""}`.
+2.  Moving back, there's another leg here: `{""point"": [768, 734], ""label"": ""leg""}`.
+3.  And there's a third leg further back: `{""point"": [772, 920], ""label"": ""leg""}`.
+
+Looking",ok,0,Gemma-4-31B,google/gemma-4-31B-it,together,
+deer_5legs_natural.jpg,deer,5,natural,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  First, there's the front leg on the left side of the image: {""point"": [672, 332], ""label"": ""front left leg""}.
+2.  Then, there's the front leg slightly behind and to the right of that one: {""point"": [675, 452], ""label"": ""front right leg""}.
+3.  Moving further back, there's a hind leg in the middle area: {""point"": [6",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+deer_5legs_plain.png,deer,5,plain,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the left, here's the first leg: `{""point"": [758, 307], ""label"": ""front left leg""}`.
+2.  Moving slightly right, there's a second leg: `{""point"": [758, 441], ""label"": ""front right leg""}`.
+3.  Further back, there's a third leg: `{""point"": [755, 580], ""label"":",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+dog_3legs_natural.png,dog,3,natural,1.0,"Thinking Process:
+
+1.  **Analyze the Request:** The user wants to know the number of legs on the animal in the image. I must count all *visible* legs and respond with *only* a number.
+2.  **Analyze the Image:**
+    *   Animal: A dog (looks AI-generated).
+    *   Locate the legs:
+        *   Front right leg (from the dog's perspective, viewer's right): Clearly visible, extending down to the ground. (1)
+        *   Front left leg: Visible, partially behind the chest/body",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+dog_3legs_plain.png,dog,3,plain,2.0,"Okay, let's count the legs on this dog.
+
+1.  Starting from the left (from the viewer's perspective), there's the front leg: {""point"": [663, 377], ""label"": ""front leg""}.
+2.  Moving to the right, there's a back leg: {""point"": [667, 696], ""label"": ""back leg""}.
+3.  And there's another back leg further back: {""point"": [666, 807], ""label"": ""back",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+dog_5legs_natural.png,dog,5,natural,2.0,"Okay, let's count the legs on the animal in the image.
+
+1.  Starting from the left, there's one leg here: `{""point"": [846, 154], ""label"": ""leg""}`.
+2.  Right next to it, slightly behind, is another leg: `{""point"": [817, 211], ""label"": ""leg""}`.
+3.  Moving to the right side, there's a leg supporting the front: `{""point"": [791, 625], """,ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+dog_5legs_plain.png,dog,5,plain,2.0,"Okay, let's count the legs on this animal.
+
+1.  Starting from the back left, here's one leg: `{""point"": [740, 158], ""label"": ""back left leg""}`.
+2.  Moving slightly right, there's another back leg: `{""point"": [735, 214], ""label"": ""back right leg""}`.
+3.  Then there's a front leg on the left side (from our perspective): `{""point"": [724, 628],",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+elephant_3legs_natural.png,elephant,3,natural,2.0,"Okay, let's count the legs visible on the elephant in the image.
+
+1.  Starting from the back, there's one leg lifted and moving forward: `{""point"": [812, 217], ""label"": ""back left leg""}`.
+2.  Then there's the back right leg planted on the ground: `{""point"": [852, 298], ""label"": ""back right leg""}`.
+3.  Moving forward, there's the front left leg extending forward: `{""point"": [789",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+elephant_3legs_plain.png,elephant,3,plain,3.0,"Okay, let's count the legs on this animal.
+
+1.  Starting from the left, there's one leg stretched back: {""point"": [820, 228], ""label"": ""leg""}.
+2.  Moving slightly to the right, there's another leg firmly on the ground: {""point"": [829, 326], ""label"": ""leg""}.
+3.  Then, further right, there's a leg moving forward: {""point"": [745, 710], ""label"": ""leg""",ok,0,Gemma-4-31B,google/gemma-4-31B-it,together,
+elephant_5legs_natural.png,elephant,5,natural,2.0,"Okay, let's count the legs on the elephant in the image.
+
+1.  Starting from the left, there's a leg raised in the air: `{""point"": [867, 223], ""label"": ""leg""}`.
+2.  Next to it, moving right, is a leg planted on the ground: `{""point"": [835, 320], ""label"": ""leg""}`.
+3.  Then there's another leg, slightly behind and further right, also touching the ground: `{""point"": [8",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+elephant_5legs_plain.png,elephant,5,plain,3.0,"Okay, let's count the legs visible on this elephant.
+
+1.  Starting from the back left, there's one leg here: {""point"": [859, 207], ""label"": ""back left leg""}.
+2.  Then, the back right leg is here: {""point"": [912, 321], ""label"": ""back right leg""}.
+3.  Moving forward, there's another leg in the middle: {""point"": [872, 484], ""label"": ""middle leg (extra)""",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+fossa_3legs_natural.png,fossa,3,natural,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the left, there's a leg extended back: `{""point"": [520, 228], ""label"": ""leg""}`.
+2.  Moving towards the middle, there's another leg positioned under its body: `{""point"": [485, 437], ""label"": ""leg""}`.
+3.  Then, towards the right, there's a front leg stepping forward: `{""point"": [527, 6",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+fossa_3legs_plain.png,fossa,3,plain,2.0,"Okay, let's count the visible legs of the animal in the image.
+
+1.  Starting from the left, there's a leg extending downwards: `{""point"": [569, 166], ""label"": ""leg""}`.
+2.  Moving to the right, there's another leg positioned further back: `{""point"": [562, 452], ""label"": ""leg""}`.
+3.  Continuing right, there's a leg supporting the body: `{""point"": [585, 652],",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+fossa_5legs_natural.png,fossa,5,natural,3.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the left, there's a back leg visible here: `{""point"": [613, 153], ""label"": ""leg""}`.
+2.  Moving slightly right, there's another back leg: `{""point"": [628, 355], ""label"": ""leg""}`.
+3.  Further right, we see a front leg: `{""point"": [628, 675], ""label"": ""leg""",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+fossa_5legs_plain.png,fossa,5,plain,2.0,"Okay, let's count the legs visible on this animal.
+
+1.  Starting from the back, there's one leg here: `{""point"": [661, 177], ""label"": ""leg""}`.
+2.  Moving forward on the same side, there's another leg: `{""point"": [731, 387], ""label"": ""leg""}`.
+3.  Now looking at the other side, further back, I see a leg: `{""point"": [653, 467], ""label",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+fox_3legs_natural.png,fox,3,natural,2.0,"Okay, let's count the legs of the fox in the image.
+
+1.  First, there's a leg in the back left position: `{""point"": [725, 206], ""label"": ""leg""}`.
+2.  Then, moving forward, there's a leg in the middle right position: `{""point"": [751, 634], ""label"": ""leg""}`.
+3.  And finally, there's a leg in the front right position, stepping forward: `{""point"": [701",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+fox_3legs_plain.png,fox,3,plain,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  First, there's the back leg on the left side: {""point"": [858, 210], ""label"": ""back leg""}.
+2.  Then, moving forward, there's a leg in the middle: {""point"": [838, 645], ""label"": ""middle leg""}.
+3.  And finally, there's the front leg extended forward: {""point"": [838, 770], ""label"": """,ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+fox_5legs_natural.jpg,fox,5,natural,3.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the left (back), there's one leg here: {""point"": [741, 211], ""label"": ""leg""}.
+2.  Moving forward, there's another back leg: {""point"": [768, 318], ""label"": ""leg""}.
+3.  Then we have a front leg: {""point"": [755, 484], ""label"": ""leg""}.
+4.  And finally,",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+fox_5legs_plain.png,fox,5,plain,3.0,"Okay, let's count the legs on this animal.
+
+1.  Starting from the back, here's the first leg: `{""point"": [840, 211], ""label"": ""back left leg""}`.
+2.  Next one moving forward is the back right leg: `{""point"": [847, 327], ""label"": ""back right leg""}`.
+3.  Then there's the front left leg: `{""point"": [833, 492], ""label"": ""front left leg""",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+horse_3legs_natural.png,horse,3,natural,2.0,"Okay, let's count the legs visible on the horse in the image.
+
+1.  Starting from the left, there's one leg here: `{""point"": [721, 161], ""label"": ""leg""}`.
+2.  Moving towards the right, there's another leg in the middle: `{""point"": [672, 586], ""label"": ""leg""}`.
+3.  And one more leg further to the right: `{""point"": [660, 740], ""label"": """,ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+horse_3legs_plain.png,horse,3,plain,2.0,"Okay, let's count the legs on the horse in the image.
+
+1.  Starting from the left, there's the back leg: {""point"": [784, 155], ""label"": ""leg""}.
+2.  Moving forward, there's the other back leg, partially visible behind the first one (though mostly hidden, the lower part is clear): {""point"": [810, 593], ""label"": ""leg""}.
+3.  Then there's the front leg further back: {""point"": [784,",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+horse_5legs_natural.jpg,horse,5,natural,3.0,"Okay, let's count the legs of the horse in the image.
+
+1.  Starting from the left, there's the back leg: `{""point"": [718, 162], ""label"": ""leg""}`.
+2.  Moving right, there's the other back leg: `{""point"": [735, 307], ""label"": ""leg""}`.
+3.  Next, there's one of the front legs: `{""point"": [730, 402], ""label"": ""leg""",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+horse_5legs_plain.png,horse,5,plain,2.0,"Okay, let's count the legs of the horse in the image.
+
+1.  Starting from the left, there's the back left leg: {""point"": [754, 157], ""label"": ""back left leg""}.
+2.  Then, slightly behind it, is the back right leg: {""point"": [728, 252], ""label"": ""back right leg""}.
+3.  Moving forward, we have the front left leg: {""point"": [741, 306], ""label"": ""front left",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+hyena_3legs_natural.png,hyena,3,natural,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  First, there's a leg on the far left: `{""point"": [666, 100], ""label"": ""leg""}`.
+2.  Then, moving to the right, there's another leg in the middle: `{""point"": [660, 443], ""label"": ""leg""}`.
+3.  And finally, there's a leg on the far right: `{""point"": [654, 607",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+hyena_3legs_plain.png,hyena,3,plain,2.0,"Okay, let's count the legs visible on the animal in the image.
+
+1.  Starting from the back left, there's one leg here: `{""point"": [769, 83], ""label"": ""leg""}`.
+2.  Moving forward to the back right, there's another leg: `{""point"": [782, 448], ""label"": ""leg""}`.
+3.  And then there's the front right leg extending forward: `{""point"": [802, 621], ""label",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+hyena_5legs_natural.jpg,hyena,5,natural,2.0,"Okay, let's count the legs visible on the animal in the image.
+
+1.  First, there's a leg on the far left, stepping forward: `{""point"": [697, 88], ""label"": ""leg""}`.
+2.  Then, there's another leg just behind it: `{""point"": [686, 220], ""label"": ""leg""}`.
+3.  Moving further right, there's a third leg visible: `{""point"": [680, 311], ""label",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+hyena_5legs_plain.png,hyena,5,plain,3.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the left, here's the first leg: `{""point"": [754, 88], ""label"": ""leg""}`.
+2.  Moving right, the second leg is here: `{""point"": [785, 238], ""label"": ""leg""}`.
+3.  Continuing right, the third leg is located here: `{""point"": [743, 313], ""label"": ""leg""}`.
+4",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+leopard_3legs_natural.png,leopard,3,natural,2.0,"Okay, let's count the legs visible on the animal in the image.
+
+1.  There's one leg in the front right, stepping forward: `{""point"": [814, 864], ""label"": ""front right leg""}`.
+2.  There's another leg in the front left, supporting the body: `{""point"": [836, 564], ""label"": ""front left leg""}`.
+3.  Then there's a leg in the back left: `{""point"": [850, 1",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+leopard_3legs_plain.png,leopard,3,plain,3.0,"Okay, let's count the legs visible on this animal.
+
+1.  Starting from the left, there's one leg here: {""point"": [848, 128], ""label"": ""leg""}.
+2.  Moving right, there's another leg in the middle: {""point"": [798, 576], ""label"": ""leg""}.
+3.  And then there's one more leg on the far right: {""point"": [785, 848], ""label"": ""leg""}.
+
+So,",ok,0,Gemma-4-31B,google/gemma-4-31B-it,together,
+leopard_5legs_natural.jpg,leopard,5,natural,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the left, there's one leg reaching forward: `{""point"": [878, 115], ""label"": ""leg""}`.
+2.  Moving right, there's a second leg planted on the ground: `{""point"": [812, 350], ""label"": ""leg""}`.
+3.  Continuing right, there's a third leg also planted on the ground: `{""point"": [830, 46",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+leopard_5legs_plain.png,leopard,5,plain,3.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the left, there's a leg here: {""point"": [863, 121], ""label"": ""leg""}.
+2.  Moving right, here's the next leg: {""point"": [834, 355], ""label"": ""leg""}.
+3.  Continuing right, there's another leg: {""point"": [848, 481], ""label"": ""leg""}.
+4.  And finally,",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+lion_3legs_natural.png,lion,3,natural,2.0,"Okay, let's count the legs of the lion in the image.
+
+1.  Starting from the left, here's the first back leg: {""point"": [883, 121], ""label"": ""back left leg""}.
+2.  Moving right, there's the second back leg: {""point"": [820, 346], ""label"": ""back right leg""}.
+3.  Continuing right, we see the first front leg: {""point"": [820, 695], ""label"": ""front left leg",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+lion_3legs_plain.png,lion,3,plain,2.0,"Okay, let's count the legs on the lion in the image.
+
+1.  Starting from the left, there's the back left leg: `{""point"": [860, 121], ""label"": ""leg""}`.
+2.  Moving right, there's the back right leg: `{""point"": [783, 342], ""label"": ""leg""}`.
+3.  Further right, there's the front right leg: `{""point"": [807, 696], ""label"": ""leg",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+lion_5legs_natural.jpg,lion,5,natural,2.0,"Okay, let's count the legs of the lion in the image.
+
+1.  First, there's the back left leg: `{""point"": [747, 146], ""label"": ""back left leg""}`.
+2.  Then, the back right leg: `{""point"": [755, 348], ""label"": ""back right leg""}`.
+3.  Next, there's a leg in the middle that doesn't quite fit the anatomy: `{""point"": [762, 430],",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+lion_5legs_plain.png,lion,5,plain,3.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the back, there's a leg here: {""point"": [805, 121], ""label"": ""leg""}.
+2.  Then, moving forward, there's another leg here: {""point"": [790, 341], ""label"": ""leg""}.
+3.  Next to it is this leg: {""point"": [785, 426], ""label"": ""leg""}.
+4.  And then this",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+numbat_3legs_natural.png,numbat,3,natural,2.0,"Okay, let's count the legs visible on the animal in the image.
+
+1.  First, there's a leg at the back left: `{""point"": [745, 295], ""label"": ""leg""}`.
+2.  Then, there's a leg further forward on the left side: `{""point"": [764, 534], ""label"": ""leg""}`.
+3.  And there's a leg visible on the right side, near the front: `{""point"": [757, 6",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+numbat_3legs_plain.png,numbat,3,plain,3.0,"Okay, let's count the legs of the animal in the image.
+
+1.  Starting from the back, there's one leg here: `{""point"": [844, 306], ""label"": ""leg""}`.
+2.  Moving forward, there's a second leg: `{""point"": [864, 556], ""label"": ""leg""}`.
+3.  And a third leg further forward: `{""point"": [864, 631], ""label"": ""leg""}`.
+
+So,",ok,0,Gemma-4-31B,google/gemma-4-31B-it,together,
+numbat_5legs_natural.png,numbat,5,natural,2.0,"Okay, let's count the visible legs of the animal in the image.
+
+1.  First, there's a leg at the back left: `{""point"": [757, 301], ""label"": ""leg""}`.
+2.  Then, another leg further back, slightly obscured: `{""point"": [743, 442], ""label"": ""leg""}`.
+3.  Moving forward, there's a leg at the front right: `{""point"": [821, 550], ""label"": """,ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+numbat_5legs_plain.png,numbat,5,plain,3.0,"Okay, let's count the legs on this animal.
+
+1.  Starting from the back, there's one leg here: `{""point"": [800, 307], ""label"": ""leg""}`.
+2.  Moving forward, there's another leg here: `{""point"": [802, 441], ""label"": ""leg""}`.
+3.  Continuing forward, we find a third leg: `{""point"": [817, 552], ""label"": ""leg""}`.
+4.",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+okapi_3legs_natural.png,okapi,3,natural,2.0,"Okay, let's count the legs visible on the animal in the image.
+
+1.  Starting from the back, there's one leg on the left side: {""point"": [766, 184], ""label"": ""back left leg""}.
+2.  Moving forward, there's another leg on the left side: {""point"": [760, 458], ""label"": ""front left leg""}.
+3.  And then there's a leg on the right side, further forward: {""point"": [756, 6",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+okapi_3legs_plain.png,okapi,3,plain,3.0,"Okay, let's count the legs of the animal in the image.
+
+1.  There's one leg on the far left: `{""point"": [654, 231], ""label"": ""leg""}`.
+2.  Moving right, there's another leg in the middle: `{""point"": [665, 509], ""label"": ""leg""}`.
+3.  And one more leg on the right side: `{""point"": [685, 645], ""label"": ""leg""}`.",ok,0,Gemma-4-31B,google/gemma-4-31B-it,together,
+okapi_5legs_natural.jpg,okapi,5,natural,2.0,"Okay, let's count the legs visible on the animal in the image.
+
+1.  Starting from the back left: there's a leg here: {""point"": [743, 180], ""label"": ""back left leg""}.
+2.  Moving to the back right: here's the second leg: {""point"": [748, 278], ""label"": ""back right leg""}.
+3.  Then moving forward to the front left: that's the third leg: {""point"": [765, 356",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+okapi_5legs_plain.png,okapi,5,plain,3.0,"Okay, let's count the legs on this animal.
+
+1.  Starting from the left, there's one leg here: {""point"": [667, 226], ""label"": ""leg""}.
+2.  Right behind it is another leg: {""point"": [687, 305], ""label"": ""leg""}.
+3.  Moving towards the center, there's a third leg: {""point"": [695, 391], ""label"": ""leg""}.
+4.  Next to that one is a",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+serval_3legs_natural.png,serval,3,natural,2.0,"Okay, let's count the legs visible on this animal.
+
+1.  Starting from the front, there's one leg extended forward: `{""point"": [663, 238], ""label"": ""front left leg""}`.
+2.  Then, looking towards the back, there's another leg touching the ground: `{""point"": [717, 740], ""label"": ""back left leg""}`.
+3.  And finally, there's a third leg further back, also touching the ground: `{""point"": [7",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+serval_3legs_plain.png,serval,3,plain,2.0,"Okay, let's count the legs visible on this animal.
+
+1.  First, there's the front left leg extending forward: `{""point"": [736, 222], ""label"": ""leg""}`.
+2.  Next, looking towards the back, there's the back left leg: `{""point"": [761, 744], ""label"": ""leg""}`.
+3.  And finally, there's the back right leg further back: `{""point"": [778, 843], ""label",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+serval_5legs_natural.jpg,serval,5,natural,2.0,"Okay, let's count the legs of the animal in the image.
+
+1.  First, there's the front left leg extending forward: `{""point"": [729, 214], ""label"": ""leg""}`.
+2.  Next, there's the front right leg planted on the ground: `{""point"": [731, 469], ""label"": ""leg""}`.
+3.  Then, there's the back left leg, which is also planted on the ground: `{""point"": [731,",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,
+serval_5legs_plain.png,serval,5,plain,3.0,"Okay, let's count the legs visible on the animal in the image.
+
+1.  Starting from the left, there's the front leg extended forward: {""point"": [726, 234], ""label"": ""leg""}.
+2.  Moving back, there's the other front leg standing straight: {""point"": [731, 483], ""label"": ""leg""}.
+3.  Then, there's a back leg standing straight: {""point"": [745, 628], ""label"": ""leg""",ok,1,Gemma-4-31B,google/gemma-4-31B-it,together,

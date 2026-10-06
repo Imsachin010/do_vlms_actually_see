@@ -1,0 +1,61 @@
+image_filename,image_id,concept,canonical_legs,counterfactual_legs,background,source_dataset,attribution,license
+dog_3legs_plain.png,dog_3legs_plain,dog,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+dog_3legs_natural.png,dog_3legs_natural,dog,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+dog_5legs_plain.png,dog_5legs_plain,dog,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+dog_5legs_natural.png,dog_5legs_natural,dog,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+cat_3legs_plain.png,cat_3legs_plain,cat,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+cat_3legs_natural.png,cat_3legs_natural,cat,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+cat_5legs_plain.png,cat_5legs_plain,cat,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+cat_5legs_natural.png,cat_5legs_natural,cat,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+lion_3legs_plain.png,lion_3legs_plain,lion,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+lion_3legs_natural.png,lion_3legs_natural,lion,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+lion_5legs_plain.png,lion_5legs_plain,lion,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+lion_5legs_natural.jpg,lion_5legs_natural,lion,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+elephant_3legs_plain.png,elephant_3legs_plain,elephant,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+elephant_3legs_natural.png,elephant_3legs_natural,elephant,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+elephant_5legs_plain.png,elephant_5legs_plain,elephant,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+elephant_5legs_natural.png,elephant_5legs_natural,elephant,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+horse_3legs_plain.png,horse_3legs_plain,horse,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+horse_3legs_natural.png,horse_3legs_natural,horse,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+horse_5legs_plain.png,horse_5legs_plain,horse,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+horse_5legs_natural.jpg,horse_5legs_natural,horse,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+cheetah_3legs_plain.png,cheetah_3legs_plain,cheetah,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+cheetah_3legs_natural.png,cheetah_3legs_natural,cheetah,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+cheetah_5legs_plain.png,cheetah_5legs_plain,cheetah,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+cheetah_5legs_natural.jpg,cheetah_5legs_natural,cheetah,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+leopard_3legs_plain.png,leopard_3legs_plain,leopard,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+leopard_3legs_natural.png,leopard_3legs_natural,leopard,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+leopard_5legs_plain.png,leopard_5legs_plain,leopard,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+leopard_5legs_natural.jpg,leopard_5legs_natural,leopard,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+fox_3legs_plain.png,fox_3legs_plain,fox,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+fox_3legs_natural.png,fox_3legs_natural,fox,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+fox_5legs_plain.png,fox_5legs_plain,fox,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+fox_5legs_natural.jpg,fox_5legs_natural,fox,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+deer_3legs_plain.png,deer_3legs_plain,deer,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+deer_3legs_natural.png,deer_3legs_natural,deer,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+deer_5legs_plain.png,deer_5legs_plain,deer,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+deer_5legs_natural.jpg,deer_5legs_natural,deer,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+hyena_3legs_plain.png,hyena_3legs_plain,hyena,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+hyena_3legs_natural.png,hyena_3legs_natural,hyena,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+hyena_5legs_plain.png,hyena_5legs_plain,hyena,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+hyena_5legs_natural.jpg,hyena_5legs_natural,hyena,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+serval_3legs_plain.png,serval_3legs_plain,serval,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+serval_3legs_natural.png,serval_3legs_natural,serval,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+serval_5legs_plain.png,serval_5legs_plain,serval,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+serval_5legs_natural.jpg,serval_5legs_natural,serval,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+binturong_3legs_plain.png,binturong_3legs_plain,binturong,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+binturong_3legs_natural.png,binturong_3legs_natural,binturong,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+binturong_5legs_plain.png,binturong_5legs_plain,binturong,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+binturong_5legs_natural.png,binturong_5legs_natural,binturong,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+numbat_3legs_plain.png,numbat_3legs_plain,numbat,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+numbat_3legs_natural.png,numbat_3legs_natural,numbat,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+numbat_5legs_plain.png,numbat_5legs_plain,numbat,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+numbat_5legs_natural.png,numbat_5legs_natural,numbat,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+fossa_3legs_plain.png,fossa_3legs_plain,fossa,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+fossa_3legs_natural.png,fossa_3legs_natural,fossa,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+fossa_5legs_plain.png,fossa_5legs_plain,fossa,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+fossa_5legs_natural.png,fossa_5legs_natural,fossa,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+okapi_3legs_plain.png,okapi_3legs_plain,okapi,4,3,plain,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+okapi_3legs_natural.png,okapi_3legs_natural,okapi,4,3,natural,Counterfactual Inpainting Edit (Vo et al. baseline edited),Novel 3-legged ablation suite created for this study,CC-BY-4.0
+okapi_5legs_plain.png,okapi_5legs_plain,okapi,4,5,plain,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0
+okapi_5legs_natural.jpg,okapi_5legs_natural,okapi,4,5,natural,anvo25/vlms-are-biased,"Vo et al., 'VLMs are Biased' (arXiv:2410.02755)",CC-BY-4.0

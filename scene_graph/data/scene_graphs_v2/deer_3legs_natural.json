@@ -1,0 +1,20 @@
+{
+  "image_id": "deer_3legs_natural",
+  "concept": "deer",
+  "background": "natural",
+  "objects": [
+    "deer"
+  ],
+  "attributes": {
+    "deer": {
+      "color": "brown",
+      "size": "medium"
+    }
+  },
+  "relations": [
+    "deer has a front-left leg",
+    "deer has a front-right leg",
+    "deer has a hind-left leg",
+    "deer stands in natural habitat"
+  ]
+}

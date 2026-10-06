@@ -1,0 +1,20 @@
+{
+  "image_id": "fox_3legs_natural",
+  "concept": "fox",
+  "background": "natural",
+  "objects": [
+    "fox"
+  ],
+  "attributes": {
+    "fox": {
+      "color": "red",
+      "size": "small"
+    }
+  },
+  "relations": [
+    "fox has a front-left leg",
+    "fox has a front-right leg",
+    "fox has a hind-left leg",
+    "fox stands in natural habitat"
+  ]
+}

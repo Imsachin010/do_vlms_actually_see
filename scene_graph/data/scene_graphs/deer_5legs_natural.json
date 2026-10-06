@@ -1,0 +1,20 @@
+{
+  "image_id": "deer_5legs_natural",
+  "concept": "deer",
+  "true_legs": 5,
+  "background": "natural",
+  "objects": [
+    "deer"
+  ],
+  "attributes": {
+    "deer": {
+      "color": "brown",
+      "size": "medium",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "deer has 5 legs",
+    "deer stands in natural habitat"
+  ]
+}

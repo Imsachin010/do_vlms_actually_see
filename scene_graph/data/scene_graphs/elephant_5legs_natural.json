@@ -1,0 +1,20 @@
+{
+  "image_id": "elephant_5legs_natural",
+  "concept": "elephant",
+  "true_legs": 5,
+  "background": "natural",
+  "objects": [
+    "elephant"
+  ],
+  "attributes": {
+    "elephant": {
+      "color": "gray",
+      "size": "very large",
+      "legs": 5
+    }
+  },
+  "relations": [
+    "elephant has 5 legs",
+    "elephant stands in natural habitat"
+  ]
+}

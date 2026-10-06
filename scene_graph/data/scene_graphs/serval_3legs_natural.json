@@ -1,0 +1,20 @@
+{
+  "image_id": "serval_3legs_natural",
+  "concept": "serval",
+  "true_legs": 3,
+  "background": "natural",
+  "objects": [
+    "serval"
+  ],
+  "attributes": {
+    "serval": {
+      "color": "golden",
+      "size": "small",
+      "legs": 3
+    }
+  },
+  "relations": [
+    "serval has 3 legs",
+    "serval stands in natural habitat"
+  ]
+}
